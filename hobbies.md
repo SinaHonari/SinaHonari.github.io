@@ -17,14 +17,6 @@
 
 • **Photography:** Practiced landscape and urban photography for more than 6 years - [More Sample Images](https://www.flickr.com/photos/143175424@N05/).
 <p align="center">
-  <img src="Images/photography_city.jpg" width="500"/>
-</p>
-
-<p align="center">
-  <img src="Images/photography_nature.jpg" width="500"/>
-</p>
-
-<p align="center">
   <img src="Images/photography_city.jpg" width="400"/>
   <img src="Images/photography_nature.jpg" width="400"/>
 </p>
