@@ -3,7 +3,7 @@
   <img src="Images/profile.jpg" width="200"/>
 </p>
 
-#### [Home](index.md) | [Awards](awards.md) | [hobbies](hobbies.md)
+#### [Home](index.md) | [Awards](awards.md) | [Hobbies](hobbies.md)
 
 -----------------------------
 
@@ -15,11 +15,11 @@
 
 • **Playing and watching soccer:** *Champion* of Concordia indoor soccer competitive league – fall 2011, *runner-up* of Concordia indoor soccer competitive league – winter 2012.
 
-![Concordia Indoor Soccer](../images/soccer.jpg)  
+![Concordia Indoor Soccer](Images/soccer.jpg)
 
 • **Biking**
 
-• **Nature:** Camping and Hiking. ![Nature](../images/nature.jpg)  
+• **Nature:** Camping and Hiking. ![Nature](Images/nature.jpg)
 
 # **Spoken Languages:**
 
