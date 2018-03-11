@@ -43,7 +43,7 @@ Florian Bordes, Sina Honari, Pascal Vincent,
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)** </br>
 Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal,
- CVPR 2016, spotlight presentation (**9.7%**).
+<u> CVPR 2016 </u>, spotlight presentation (**9.7%**) [code](https://github.com/SinaHonari/RCN).
 
 <br />
 <br />
@@ -56,4 +56,4 @@ Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal,
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)** </br>
 David Rim, Sina Honari, Md Kamrul Hasan, Chris Pal,
-Image and Vision Computing Journal, 2017.
+*Image and Vision Computing Journal*, 2017.
