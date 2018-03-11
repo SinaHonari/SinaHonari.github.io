@@ -11,7 +11,7 @@
 
 ### Machine Learning and Deep Learning
 
-| <img src="Images/research/semi_landmarks.jpg" width="350"/> | **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**
+| <img align="right" src="Images/research/semi_landmarks.jpg" width="350"/> | **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**
 Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz
 , CVPR 2018.|
 
