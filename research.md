@@ -17,7 +17,7 @@
 <img align="left" src="Images/research/semi_landmarks_part.jpg" width="350"/>
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)** </br>
-Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz,
+Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz, </br>
 *Computer Vision and Pattern Recognition (CVPR)*, 2018.
 
 <br />
@@ -31,8 +31,8 @@ Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Ja
 <img align="left" src="Images/research/infusion.jpg" width="350"/>
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)** </br>
-Florian Bordes, Sina Honari, Pascal Vincent,
- ICLR 2017.
+Florian Bordes, Sina Honari, Pascal Vincent, </br>
+*International Conference on Learning Representations (ICLR)*, 2017.
 <br />
 <br />
 <br />
