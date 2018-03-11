@@ -25,6 +25,9 @@ Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Ja
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 <p>
 <img align="left" src="Images/research/RCN.jpg" width="350"/>
 
