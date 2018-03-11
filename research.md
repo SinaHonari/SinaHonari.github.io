@@ -52,15 +52,7 @@ Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal,
 <br />
 <br />
 
-<p>
-<img align="left" src="Images/research/id_exp_dir.jpg" width="350"/>
-</p>
-<br /> 
-<br /> 
-<br /> 
-<p>
-<img align="left" src="Images/research/id_exp_graph.jpg" width="150"/>
-</p>
+<img align="left" src="Images/research/id_exp_merge.jpg" width="350"/>
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)** </br>
 David Rim, Sina Honari, Md Kamrul Hasan, Chris Pal,
