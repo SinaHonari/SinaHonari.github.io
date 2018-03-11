@@ -40,7 +40,8 @@ Florian Bordes, Sina Honari, Pascal Vincent,
 <br />
 
 <img align="left" src="Images/research/RCN.jpg" width="350"/>
-
+<br />
+<br />
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)** </br>
 Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal,
  CVPR 2016, spotlight presentation (**9.7%**).
