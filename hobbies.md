@@ -14,14 +14,13 @@
 • **Learning about other cultures and traditions.**
 
 • **Playing and watching soccer:** *Champion* of Concordia indoor soccer competitive league – fall 2011, *runner-up* of Concordia indoor soccer competitive league – winter 2012.
-![Concordia Indoor Soccer](Images/soccer.jpg)
 <p align="center">
   <img src="Images/soccer.jpg" width="650"/>
 </p>
 
 • **Biking**
 
-• **Nature:** Camping and Hiking. ![Nature](Images/nature.jpg)
+• **Nature:** Camping and Hiking.
 <p align="center">
   <img src="Images/nature.jpg" width="650"/>
 </p>
