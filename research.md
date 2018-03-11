@@ -50,10 +50,8 @@ Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal,
 <br />
 <br />
 <br />
-<br />
 
 <img align="left" src="Images/research/id_exp_merge.jpg" width="350"/>
-<br />
 <br />
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)** </br>
