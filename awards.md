@@ -2,8 +2,7 @@
   <img src="Images/profile.jpg" width="200"/>
 </p>
 
-[Home](index.md)
-
+[Home](index.md) <br />
 [Awards](awards.md)
 
 -----------------------------
