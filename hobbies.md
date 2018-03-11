@@ -25,6 +25,8 @@
   <img src="Images/nature.jpg" width="650"/>
 </p>
 
+-----------------------------
+
 ### **Spoken Languages:**
 
 • **English** (Fluent)  
