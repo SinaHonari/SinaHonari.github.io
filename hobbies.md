@@ -31,9 +31,6 @@
 • **Biking**
 
 • **Nature:** Camping and Hiking.
-<p align="center">
-  <img src="Images/nature.jpg" width="650"/>
-</p>
 
 -----------------------------
 
