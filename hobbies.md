@@ -7,7 +7,7 @@
 
 -----------------------------
 
-• **Painting:** Practical painting experience with water color, oil on canvas, sketching and pencil colors for more than 10 years – participated in a group exhibition in 2008 - [Sample Paintings](https://www.flickr.com/photos/143175424@N05/albums/72157672068948112).
+• **Painting:** Practical painting experience with water color, oil on canvas, sketching and pencil colors for more than 10 years – participated in a group exhibition in 2008 - [More Sample Paintings](https://www.flickr.com/photos/143175424@N05/albums/72157672068948112).
 <p align="center">
   <img src="Images/cafe_med.jpg" width="300"/>
 </p>
@@ -15,7 +15,7 @@
   <img src="Images/persepolis_med.jpg" width="400"/>
 </p>
 
-• **Photography:** Practiced landscape and urban photography for more than 6 years - [Sample Images](https://www.flickr.com/photos/143175424@N05/).
+• **Photography:** Practiced landscape and urban photography for more than 6 years - [More Sample Images](https://www.flickr.com/photos/143175424@N05/).
 
 • **Learning about other cultures and traditions.**
 
