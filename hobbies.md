@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-  <img src="Images/photography_city.jpg" width="500"/>
-  <img src="Images/photography_nature.jpg" width="500"/>
+  <img src="Images/photography_city.jpg" width="400"/>
+  <img src="Images/photography_nature.jpg" width="400"/>
 </p>
 
 • **Learning about other cultures and traditions.**
