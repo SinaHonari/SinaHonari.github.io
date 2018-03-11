@@ -16,9 +16,9 @@
 
 <img align="left" src="Images/research/semi_landmarks_part.jpg" width="350"/>
 
-**[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**
-Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz
-, CVPR 2018.
+**[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)** </br>
+Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz,
+ CVPR 2018.
 
 <br />
 <br />
@@ -28,10 +28,10 @@ Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Ja
 <br />
 <br />
 <br />
-<img align="left" src="Images/research/infusion.jpg" width="450"/>
+<img align="left" src="Images/research/infusion.jpg" width="350"/>
 
-**[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**
-Florian Bordes, Sina Honari, Pascal Vincent
+**[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)** </br>
+Florian Bordes, Sina Honari, Pascal Vincent,
  ICLR 2017.
 <br />
 <br />
@@ -43,6 +43,6 @@ Florian Bordes, Sina Honari, Pascal Vincent
 <br />
 <img align="left" src="Images/research/RCN.jpg" width="350"/>
 
-**[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**
+**[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)** </br>
 Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal,
  CVPR 2016, spotlight presentation (**9.7%**).
