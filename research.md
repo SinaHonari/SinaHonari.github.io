@@ -12,7 +12,7 @@
 <br />
 
 ### Machine Learning and Deep Learning
-
+<br />
 
 <img align="left" src="Images/research/semi_landmarks_part.jpg" width="350"/>
 
