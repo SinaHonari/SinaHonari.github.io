@@ -8,6 +8,8 @@
 -----------------------------
 
 [Google scholar](https://scholar.google.com/citations?user=8uou2n4AAAAJ&hl=en)
+<br />
+<br />
 
 ### Machine Learning and Deep Learning
 
