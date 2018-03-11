@@ -18,7 +18,7 @@
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)** </br>
 Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz,
- CVPR 2018.
+*Computer Vision and Pattern Recognition (CVPR)*, 2018.
 
 <br />
 <br />
@@ -42,8 +42,8 @@ Florian Bordes, Sina Honari, Pascal Vincent,
 <img align="left" src="Images/research/RCN.jpg" width="350"/>
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)** </br>
-Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal,
-<u> CVPR 2016 </u>, spotlight presentation (**9.7%**) [code](https://github.com/SinaHonari/RCN).
+Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal, </br>
+*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%**) [[code](https://github.com/SinaHonari/RCN)].
 
 <br />
 <br />
@@ -55,5 +55,5 @@ Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal,
 <br />
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)** </br>
-David Rim, Sina Honari, Md Kamrul Hasan, Chris Pal,
+David Rim, Sina Honari, Md Kamrul Hasan, Chris Pal, </br>
 *Image and Vision Computing Journal*, 2017.
