@@ -10,9 +10,8 @@
 [Google scholar](https://scholar.google.com/citations?user=8uou2n4AAAAJ&hl=en)
 
 ### Machine Learning and Deep Learning
-**Improving Landmark Localization with Semi-Supervised Learning**
-<span style="color:blue">some *blue*
-Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz
-</span> CVPR 2018
+**[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**
+<span style="color:blue">some *blue* Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz </span>
+, CVPR 2018.
 
 
