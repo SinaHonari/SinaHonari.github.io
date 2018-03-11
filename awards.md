@@ -1,4 +1,9 @@
-[Home](index.md) [Awards](awards.md)
+<p align="center">
+  <img src="Images/profile.jpg" width="200"/>
+</p>
+
+[Home](index.md)
+[Awards](awards.md)
 
 -----------------------------
 
