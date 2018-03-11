@@ -17,8 +17,8 @@
 
 • **Photography:** Practiced landscape and urban photography for more than 6 years - [More Sample Images](https://www.flickr.com/photos/143175424@N05/).
 <p align="center">
-  <img src="Images/photography_city.jpg" width="350"/>
-  <img src="Images/photography_nature.jpg" width="350"/>
+  <img src="Images/photography_city.jpg" width="400"/>
+  <img src="Images/photography_nature.jpg" width="400"/>
 </p>
 
 • **Learning about other cultures and traditions.**
@@ -26,14 +26,13 @@
 • **Playing and watching soccer:** *Champion* of Concordia indoor soccer competitive league – fall 2011, *runner-up* of Concordia indoor soccer competitive league – winter 2012.
 <p align="center">
   <img src="Images/soccer.jpg" width="650"/>
+  <img src="Images/soccer_v2.jpg" width="650"/>
+  <img src="Images/soccer_v3.jpg" width="650"/>
 </p>
 
 • **Biking**
 
 • **Nature:** Camping and Hiking.
-<p align="center">
-  <img src="Images/nature.jpg" width="650"/>
-</p>
 
 -----------------------------
 
