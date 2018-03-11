@@ -17,7 +17,7 @@
 Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz
 , CVPR 2018.
 
-
+</br>
 <img align="left" src="Images/research/RCN.jpg" width="350"/>
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**
