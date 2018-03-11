@@ -20,9 +20,19 @@
 Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz
 , CVPR 2018.
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<img align="left" src="Images/research/infusion.jpg" width="350"/>
 
-
-
+**[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**
+Florian Bordes, Sina Honari, Pascal Vincent
+ ICLR 2017.
 <br />
 <br />
 <br />
