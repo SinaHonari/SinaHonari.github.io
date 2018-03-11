@@ -1,12 +1,12 @@
-• <b><u><i>1st place</i></u></b> in hand-tracking challenge and  <b><u><i>2nd place</i></u></b> in Frame-based 3D hand pose estimation challenge, in the 3rd International Workshop on observing and understanding hands in action, International Conference on Computer Vision (ICCV), Venice, Italy, 2017. 
+[Home](index.md) [Awards](awards.md)
 
-• Bursary of Excellence, Department of Computer Science and Operations Research, University of Montreal, fall 2017 and winter 2018.
+-----------------------------
 
-• Bursary of Excellence, Department of Computer Science and Operations Research, University of Montreal, fall 2015 and winter 2016.
+• <b><u><i>1st place</i></u></b> in hand-tracking challenge and  <b><u><i>2nd place</i></u></b> in Frame-based 3D hand pose estimation challenge, in the 3rd International Workshop on observing and understanding hands in action, International Conference on Computer Vision (ICCV), Venice, Italy, 2017.
+
+• Bursary of Excellence, Department of Computer Science and Operations Research, University of Montreal, fall 2014, fall and winter 2015, winter 2016, fall 2017 and winter 2018.
 
 • Bursary of J. Armand Bombardier, Faculty of Graduate and Postdoctoral Studies, University of Montreal, fall 2015.
-
-• Bursary of Excellence, Department of Computer Science and Operations Research, University of Montreal, fall 2014 and winter 2015.
 
 • Fonds Québécois de la Recherche sur la Nature et les Technologies (FQRNT) - Doctoral research Scholarships (B2), <b><u><i>ranked 3rd</i></u></b>, 2014 and 2015.
 
