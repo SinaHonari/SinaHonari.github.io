@@ -21,16 +21,14 @@
   <img src="Images/photography_nature.jpg" width="400"/>
 </p>
 
-• **Learning about other cultures and traditions.**
+• **Nature:** Camping and Hiking.
+
+• **Biking**
 
 • **Playing and watching soccer:** *Champion* of Concordia indoor soccer competitive league – fall 2011, *runner-up* of Concordia indoor soccer competitive league – winter 2012.
 <p align="center">
   <img src="Images/soccer_v3.jpg" width="650"/>
 </p>
-
-• **Biking**
-
-• **Nature:** Camping and Hiking.
 
 -----------------------------
 
