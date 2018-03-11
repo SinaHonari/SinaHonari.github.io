@@ -2,6 +2,7 @@
   <img src="Images/profile.jpg" width="200"/>
 </p>
 
+[Awards][awards.md]
 
 I am a PhD student in [MILA](https://mila.quebec/en/) lab at [University of Montreal](http://www.umontreal.ca/en/). My research domain is at the intersection of machine learning and computer vision. More specifically, I am interested in developing deep learning techniques for computer vision problems. My long term goal is to bring artificial intelligence to everyday life and solve real world problems. My research is supervised by [Christopher Pal](https://scholar.google.ca/citations?user=1ScWJOoAAAAJ&hl=en) and [Pascal Vincent](https://scholar.google.com/citations?user=WBCKQMsAAAAJ). My PhD was partially funded by Fonds Québécois de la Recherche sur la Nature et les Technologies ([FRQNT](http://www.frqnt.gouv.qc.ca/en/le-frqnt)).
 
