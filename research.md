@@ -26,14 +26,12 @@ Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Ja
 <br />
 <br />
 <br />
-<br />
 
 <img align="left" src="Images/research/infusion.jpg" width="350"/>
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)** </br>
 Florian Bordes, Sina Honari, Pascal Vincent </br>
 *International Conference on Learning Representations (ICLR)*, 2017.
-<br />
 <br />
 <br />
 <br />
@@ -45,7 +43,6 @@ Florian Bordes, Sina Honari, Pascal Vincent </br>
 Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal </br>
 *Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%**) [[code](https://github.com/SinaHonari/RCN)].
 
-<br />
 <br />
 <br />
 <br />
