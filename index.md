@@ -2,7 +2,7 @@
   <img src="Images/profile.jpg" width="200"/>
 </p>
 
-### [Home](index.md) | ### [Awards](awards.md) |
+### [Home](index.md) | [Awards](awards.md) |
 
 -----------------------------
 
