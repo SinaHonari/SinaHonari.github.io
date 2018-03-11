@@ -26,6 +26,8 @@
 • **Playing and watching soccer:** *Champion* of Concordia indoor soccer competitive league – fall 2011, *runner-up* of Concordia indoor soccer competitive league – winter 2012.
 <p align="center">
   <img src="Images/soccer.jpg" width="650"/>
+  <img src="Images/soccer_v2.jpg" width="650"/>
+  <img src="Images/soccer_v3.jpg" width="650"/>
 </p>
 
 • **Biking**
