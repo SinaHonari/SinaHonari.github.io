@@ -97,7 +97,6 @@ Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
 <br />
 
 <img align="left" src="Images/research/market3.jpg" width="320"/>
-
 <h6> In the final years of my undergrad I worked on market mechanism design. As part of this research I participated in the international Trading Agent Competition - Market Design Scenation (TAC-CAT).
 Market is a group of interacting entities through platforms like stock-exchanges, a decentralized system with interacting self-interested agents whose activities are buying and selling goods and services.
 In this context, a mechanism is a combination of strategies available to participant agents in the system and the outcome rules, which provides solutions to resource allocation problems. The goal here was to design market makers.
@@ -105,8 +104,6 @@ The market makers can be thought of as the London Stock Exchange or NYSE which c
 We designed a market maker by defining its policies such as which buy and sell demands (asks and bids) can be placed in the market and how to match them, setting the price of the transactions, and establishing the market clearing policy. The goal was to design the market policies in a way to attract potential buyers and sellers, maximize the percentage of matched asks and bids, and meanwhile maximize the profit of the market maker itself through the fees charged to the traders. The market policies were evaluated while several concurrent markets were in competition.
 </h6>
 
-<br />
-<br />
 <br />
 
 **Price Estimation of PersianCAT Market Equilibrium**</br>
