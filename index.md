@@ -12,3 +12,4 @@ I completed my masters in computer science at [Concordia University](https://www
 
 I interned at Morgan Stanely as trade technology analyst and NVIDIA Research as deep learning researcher.
 
+![e-mail](Images/email_fun.png)
