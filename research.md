@@ -11,7 +11,7 @@
 <br />
 <br />
 
-### Machine Learning and Deep Learning
+## Machine Learning and Deep Learning
 <br />
 
 <img align="left" src="Images/research/semi_landmarks_part.jpg" width="350"/>
@@ -62,7 +62,7 @@ David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal</br>
 
 -----------------------------
 
-### Trust Estimation in Multi-Agent Systems
+## Trust Estimation in Multi-Agent Systems
 <br />
 
 <h6>
@@ -92,7 +92,7 @@ Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
 
 -----------------------------
 
-### Automated Market Mechanism
+## Automated Market Mechanism
 <br />
 
 <h6> 
