@@ -93,6 +93,7 @@ Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
 -----------------------------
 
 ### Automated Market Mechanism
+<br />
 
 <h6> 
 <img align="left" src="Images/research/market3.jpg" width="320"/>
