@@ -7,7 +7,7 @@
 
 -----------------------------
 
-[Google scholar](https://scholar.google.com/citations?user=8uou2n4AAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=8uou2n4AAAAJ&hl=en)
 <br />
 <br />
 
