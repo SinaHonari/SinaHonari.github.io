@@ -12,6 +12,4 @@ I completed my masters in computer science at [Concordia University](https://www
 
 I interned at Morgan Stanely as trade technology analyst and NVIDIA Research as deep learning researcher.
 
-[<img src="Images/social/email_fun.png" width="20">](honaris@iro.umontreal.ca)
-
-<a href="mailto:honaris@iro.umontreal.ca"><img src="Images/social/email_fun.png" width="20"></a>
+<a href="mailto:honaris@iro.umontreal.ca"><img src="Images/social/email_fun.png" width="40"></a>
