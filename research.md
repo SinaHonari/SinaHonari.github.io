@@ -26,6 +26,7 @@ Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Ja
 <br />
 <br />
 <br />
+<br />
 
 <img align="left" src="Images/research/infusion.jpg" width="350"/>
 
