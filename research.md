@@ -96,7 +96,8 @@ Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
 
 ### Automated Market Mechanism
 
-<img align="left" src="Images/research/market3.jpg" width="300"/>
+<img align="left" src="Images/research/market3.jpg" width="320"/>
+<br />
 
 <h6>
 In the final years of my undergrad I worked on market mechanism design and as part of this research I participated in the international trading agent competition.
