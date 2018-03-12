@@ -65,7 +65,6 @@ David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal</br>
 ### Trust Estimation in Multi-Agent Systems
 
 <img align="left" src="Images/research/multi_agent.png" width="300"/>
-
 <h6>
 My master’s research was on representing trust in multi-agent systems. A multi-agent system is composed of many interacting, rational and autonomous computer systems known as agents, each with their own objectives and knowledge of each other. In general agents may cooperate with each other or pursue their own objectives greedily. Trust is the expectation or the belief that a party will act benignly and cooperatively with the trusting party. In this research I proposed a trust representation of an agent based on possibility theory which allowed merging of information received from different agents considering the uncertainties in the acquired information. This allowed representing the trust of an agent through the information acquired from other agents.
 </h6>
