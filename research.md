@@ -52,5 +52,25 @@ Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal </br>
 <br />
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)** </br>
-David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal, </br>
+David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal</br>
 *Image and Vision Computing Journal*, 2016.
+
+### Trust Estimation in Multi-Agent Systems
+
+<img align="left" src="Images/research/multi_agent.png" width="350"/>
+
+My master’s research was on representing trust in multi-agent systems. A multi-agent system is composed of many interacting, rational and autonomous computer systems known as agents, each with their own objectives and knowledge of each other. In general agents may cooperate with each other or pursue their own objectives greedily. Trust is the expectation or the belief that a party will act benignly and cooperatively with the trusting party. In this research I proposed atrust representation of an agent based on possibility theory which allowed merging of information received from different agents while considering the uncertainties in the acquired information. This allowed reprenting the trust of an agent through the information acquired from other agents.
+
+**Uncertainty-Based Trust Estimation in a Multi-Valued Trust Environment**</br>
+Sina Honari, Brigitte Jaumard, Jamal Bentahar </br>
+*International Journal on Artificial Intelligence Tools (IJAIT)*, 2013.
+
+**An Approach on Merging Agents' Trust Distributions in a Possibilitic Domain**
+Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
+*Communications in Computer and Information Science (CCIS)*, 2012.
+
+**Merging Successive Possibility Distributions for Trust Estimation Under Uncertainty in Multi-Agent Systems**
+Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
+*4th International Conference on Agents and Artificial Intelligence (ICAART)*, 2012.
+
+• Sina Honari, Brigitte Jaumard and Jamal Bentahar. "Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment". 23rd International Conference on Tools with Artificial Intelligence (ICTAI), pp. 336-343, Boca Raton, Florida, USA, Nov. 2011.
