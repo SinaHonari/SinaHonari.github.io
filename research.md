@@ -95,12 +95,11 @@ Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
 -----------------------------
 
 ### Automated Market Mechanism
-
-<img align="left" src="Images/research/market3.jpg" width="320"/>
 <br />
 
-<h6>
-In the final years of my undergrad I worked on market mechanism design and as part of this research I participated in the international trading agent competition.
+<img align="left" src="Images/research/market3.jpg" width="320"/>
+
+<h6> In the final years of my undergrad I worked on market mechanism design and as part of this research I participated in the international trading agent competition.
 Market is a group of interacting entities through platforms like stock-exchanges, a decentralized system with interacting self-interested agents whose activities are buying and selling goods and services.
 In this context, a mechanism is a combination of strategies available to participant agents in the system and the outcome rules, which provides solutions to resource allocation problems. The goal here was to design market makers.
 The market makers can be thought of as the London Stock Exchange or NYSE which compete with each-other on the stock traders.
