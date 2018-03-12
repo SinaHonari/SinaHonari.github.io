@@ -55,6 +55,11 @@ Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal </br>
 David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal</br>
 *Image and Vision Computing Journal*, 2016.
 
+<br />
+<br />
+<br />
+<br />
+
 ### Trust Estimation in Multi-Agent Systems
 
 <img align="left" src="Images/research/multi_agent.png" width="350"/>
@@ -65,12 +70,14 @@ My master’s research was on representing trust in multi-agent systems. A multi
 Sina Honari, Brigitte Jaumard, Jamal Bentahar </br>
 *International Journal on Artificial Intelligence Tools (IJAIT)*, 2013.
 
-**An Approach on Merging Agents' Trust Distributions in a Possibilitic Domain**
+**An Approach on Merging Agents' Trust Distributions in a Possibilitic Domain** </br>
 Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
 *Communications in Computer and Information Science (CCIS)*, 2012.
 
-**Merging Successive Possibility Distributions for Trust Estimation Under Uncertainty in Multi-Agent Systems**
+**Merging Successive Possibility Distributions for Trust Estimation Under Uncertainty in Multi-Agent Systems**</br>
 Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
 *4th International Conference on Agents and Artificial Intelligence (ICAART)*, 2012.
 
-• Sina Honari, Brigitte Jaumard and Jamal Bentahar. "Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment". 23rd International Conference on Tools with Artificial Intelligence (ICTAI), pp. 336-343, Boca Raton, Florida, USA, Nov. 2011.
+**Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment**</br>
+Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
+*23rd International Conference on Tools with Artificial Intelligence (ICTAI)*, 2011.
