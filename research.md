@@ -61,6 +61,7 @@ David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal</br>
 <br />
 
 -----------------------------
+_ _ _
 
 ### Trust Estimation in Multi-Agent Systems
 
