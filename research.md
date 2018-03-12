@@ -63,6 +63,7 @@ David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal</br>
 -----------------------------
 
 ### Trust Estimation in Multi-Agent Systems
+<br />
 
 <img align="left" src="Images/research/multi_agent.png" width="300"/>
 <h6>
@@ -92,7 +93,6 @@ Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
 -----------------------------
 
 ### Automated Market Mechanism
-<br />
 
 <h6> 
 <img align="left" src="Images/research/market3.jpg" width="320"/>
