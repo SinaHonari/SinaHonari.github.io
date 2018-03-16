@@ -41,7 +41,6 @@ Florian Bordes, Sina Honari, Pascal Vincent </br>
 <br />
 <br />
 <br />
-<br />
 
 <img align="left" src="Images/research/RCN.jpg" width="350"/>
 
