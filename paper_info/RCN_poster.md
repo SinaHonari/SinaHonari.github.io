@@ -1,1 +1,1 @@
-<img align="left" src="../Images/research/RCN_poster.jpg" width="800"/>
+<img align="left" src="../Images/research/RCN_poster.jpg" width="1000"/>
