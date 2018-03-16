@@ -16,8 +16,8 @@
 
 <img align="left" src="Images/research/semi_landmarks_part.jpg" width="350"/>
 
-**[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)** </br>
-Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz </br>
+**[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
+Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz \
 *Computer Vision and Pattern Recognition (CVPR)*, 2018.
 
 <br />
