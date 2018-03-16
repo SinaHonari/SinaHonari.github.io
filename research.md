@@ -43,7 +43,7 @@ Florian Bordes, Sina Honari, Pascal Vincent </br>
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)** </br>
 Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal </br>
-*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%**) [[code](https://github.com/SinaHonari/RCN)].
+*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%**) [[code](https://github.com/SinaHonari/RCN)][[poster](Images/research/RCN_poster.jpg)].
 
 <br />
 <br />
