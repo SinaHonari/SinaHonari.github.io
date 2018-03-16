@@ -17,7 +17,7 @@
 <img align="left" src="Images/research/semi_landmarks_part.jpg" width="350"/>
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
-Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz \
+Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz  
 *Computer Vision and Pattern Recognition (CVPR)*, 2018.
 
 <br />
@@ -31,8 +31,8 @@ Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Ja
 
 <img align="left" src="Images/research/infusion.jpg" width="350"/>
 
-**[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)** </br>
-Florian Bordes, Sina Honari, Pascal Vincent </br>
+**[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
+Florian Bordes, Sina Honari, Pascal Vincent  
 *International Conference on Learning Representations (ICLR)*, 2017 [[poster](paper_info/infusion_poster.md)].
 <br />
 <br />
@@ -44,8 +44,8 @@ Florian Bordes, Sina Honari, Pascal Vincent </br>
 
 <img align="left" src="Images/research/RCN.jpg" width="350"/>
 
-**[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)** </br>
-Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal </br>
+**[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
+Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal  
 *Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%**) [[code](https://github.com/SinaHonari/RCN)][[poster](paper_info/RCN_poster.md)].
 
 <br />
@@ -53,11 +53,10 @@ Sina Honari, Jason Yosinski, Pascal Vincent, Christopher Pal </br>
 <br />
 <br />
 
-<img align="left" src="Images/research/id_exp_merge.jpg" width="350"/>
-<br />
+<img align="left" src="Images/research/id_exp_merge.jpg" width="350"/>  
 
-**[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)** </br>
-David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal</br>
+**[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)**  
+David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal  
 *Image and Vision Computing Journal*, 2016.
 
 <br />
@@ -78,20 +77,20 @@ My master’s research was on representing trust in multi-agent systems. A multi
 <br />
 <br />
 
-**Uncertainty-Based Trust Estimation in a Multi-Valued Trust Environment**</br>
-Sina Honari, Brigitte Jaumard, Jamal Bentahar </br>
+**Uncertainty-Based Trust Estimation in a Multi-Valued Trust Environment**  
+Sina Honari, Brigitte Jaumard, Jamal Bentahar  
 *International Journal on Artificial Intelligence Tools (IJAIT)*, 2013.
 
-**An Approach on Merging Agents' Trust Distributions in a Possibilitic Domain** </br>
-Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
+**An Approach on Merging Agents' Trust Distributions in a Possibilitic Domain**  
+Sina Honari, Brigitte Jaumard, Jamal Bentahar  
 *Communications in Computer and Information Science (CCIS)*, 2012.
 
-**Merging Successive Possibility Distributions for Trust Estimation Under Uncertainty in Multi-Agent Systems**</br>
-Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
+**Merging Successive Possibility Distributions for Trust Estimation Under Uncertainty in Multi-Agent Systems**  
+Sina Honari, Brigitte Jaumard, Jamal Bentahar  
 *4th International Conference on Agents and Artificial Intelligence (ICAART)*, 2012.
 
-**Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment**</br>
-Sina Honari, Brigitte Jaumard, Jamal Bentahar</br>
+**Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment**  
+Sina Honari, Brigitte Jaumard, Jamal Bentahar  
 *23rd International Conference on Tools with Artificial Intelligence (ICTAI)*, 2011.
 
 
@@ -111,14 +110,14 @@ We designed a market maker by defining its policies such as which buy and sell d
 
 <br />
 
-**Price Estimation of PersianCAT Market Equilibrium**</br>
-Sina Honari, Mojtaba Ebadi, Amin Fos-hati, Maziar Gomrokchi, Jamal Bentahar, Babak Khosravifar </br>
+**Price Estimation of PersianCAT Market Equilibrium**  
+Sina Honari, Mojtaba Ebadi, Amin Fos-hati, Maziar Gomrokchi, Jamal Bentahar, Babak Khosravifar  
 *International Joint Conference on Artificial Intelligence, Trading Agent Design and Analysis Workshop (IJCAI-TADA 09)*, 2009.
 
-**Simulating New Markets by Introducing New Accepting Policies for the Conventional Continuous Double Auction** </br>
-Sina Honari, Maziar gomrokchi, Mojtaba Ebadi, Amin Fos-hati, Jamal Bentahar</br>
+**Simulating New Markets by Introducing New Accepting Policies for the Conventional Continuous Double Auction**  
+Sina Honari, Maziar gomrokchi, Mojtaba Ebadi, Amin Fos-hati, Jamal Bentahar  
 *Agent-Directed Simulation Symposium (ADS'08)*, 2008.
 
-**Evaluation of PersianCAT Agent's Accepting Policy in Continuous Double Auction, Participant in CAT 2007 Competition**</br>
-Sina Honari, Amin Fos-hati, Mojtaba Ebadi, Maziar gomrokchi</br>
+**Evaluation of PersianCAT Agent's Accepting Policy in Continuous Double Auction, Participant in CAT 2007 Competition**  
+Sina Honari, Amin Fos-hati, Mojtaba Ebadi, Maziar gomrokchi  
 *International Computer Society of Iran Computer Conference (CSICC)*, 2008.
