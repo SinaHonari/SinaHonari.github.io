@@ -93,7 +93,8 @@ Sina Honari, Brigitte Jaumard, Jamal Bentahar
 **Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment**  
 Sina Honari, Brigitte Jaumard, Jamal Bentahar  
 *23rd International Conference on Tools with Artificial Intelligence (ICTAI)*, 2011.
-
+<br />
+<br />
 
 -----------------------------
 
