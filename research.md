@@ -26,7 +26,6 @@ Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Ja
 <br />
 <br />
 <br />
-<br />
 
 
 <img align="left" src="Images/research/infusion.jpg" width="350"/>
@@ -63,6 +62,7 @@ David Rim*, Sina Honari*, Md Kamrul Hasan, Chris Pal
 <br />
 <br />
 <br />
+
 
 -----------------------------
 
