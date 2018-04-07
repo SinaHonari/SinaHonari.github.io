@@ -17,7 +17,7 @@ I interned at Morgan Stanely as trade technology analyst and NVIDIA Research as 
 <br/>
 <br/>
 
-<a href="mailto:honaris@iro.umontreal.ca"><img src="Images/social/email_fun.png" width="30"></a> &nbsp;&nbsp;
+<a href="mailto:honaris@iro.umontreal.ca"><img src="Images/social/email_bw.png" width="30"></a> &nbsp;&nbsp;
 [<img src="Images/social/github_cat.png" width="30">](https://github.com/SinaHonari) &nbsp;&nbsp;
 [<img src="Images/social/gscholar.png" width="30">](https://scholar.google.com/citations?user=8uou2n4AAAAJ&hl=en) &nbsp;&nbsp;
 [<img src="Images/social/linkedin.png" width="25">](https://www.linkedin.com/in/sinahonari)
