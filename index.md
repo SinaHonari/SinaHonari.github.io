@@ -10,7 +10,7 @@ I am a PhD student in [MILA](https://mila.quebec/en/) lab at [University of Mont
 
 I completed my masters in computer science at [Concordia University](https://www.concordia.ca/) under supervision of [Brigitte Jaumard](https://www.brigittejaumard.com/) and [Jamal Bentahar](https://users.encs.concordia.ca/~bentahar/). My thesis was titled "Under Uncertainty Trust Estimation in Multi-Valued Settings". 
 
-I interned at Morgan Stanely as trade technology analyst and NVIDIA Research as deep learning researcher.
+I interned at Morgan Stanely as trade technology analyst and at NVIDIA Research as deep learning researcher.
 
 <br/>
 <br/>
