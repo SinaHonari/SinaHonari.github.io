@@ -16,8 +16,8 @@
 <img align="left" src="Images/research/2018_MICCAI_Distribution_matching.jpg" width="300"/>
 
 **[distribution matching losses can halucinate features in medical image translation](https://arxiv.org/abs/1805.08841)**  
-Joseph Paul Cohen, Margaux Luck, **Sina Honari**
-*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1805.08841)][[poster](paper_info/2018_MICCAI_distribution_matching.md)].
+Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018 [[paper](https://arxiv.org/abs/1805.08841)][[poster](paper_info/2018_MICCAI_distribution_matching.md)].
 
 <br />
 <br />
@@ -28,8 +28,8 @@ Joseph Paul Cohen, Margaux Luck, **Sina Honari**
 <img align="left" src="Images/research/2018_MIDL_cure_cancer.jpg" width="300"/>
 
 **[How to Cure Cancer (in images) with Unpaired Image Translation](https://openreview.net/forum?id=SJIA3pijM)**  
-Joseph Paul Cohen, Margaux Luck, **Sina Honari**
-*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://openreview.net/forum?id=SJIA3pijM)].
+Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
+*Medical Imaging with Deep Learning (MIDL)*, 2018 [[paper](https://openreview.net/forum?id=SJIA3pijM)].
 
 <br />
 <br />
