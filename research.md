@@ -40,7 +40,7 @@ Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong 
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
 Florian Bordes, **Sina Honari**, Pascal Vincent  
-*International Conference on Learning Representations (ICLR)*, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[poster](paper_info/infusion_poster.md)].
+*International Conference on Learning Representations (ICLR)*, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[poster](paper_info/2017_ICLR_infusion.md)].
 <br />
 <br />
 <br />
@@ -52,7 +52,7 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
 **Sina Honari**, Jason Yosinski, Pascal Vincent, Christopher Pal  
-*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](paper_info/RCN_poster.md)].
+*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](paper_info/2016_CVPR_RCN.md)].
 
 <br />
 <br />
