@@ -23,7 +23,6 @@ Joseph Paul Cohen, Margaux Luck, **Sina Honari**
 <br />
 <br />
 <br />
-<br />
 
 <img align="left" src="Images/research/2018_MIDL_cure_cancer.jpg" width="300"/>
 
@@ -65,6 +64,7 @@ Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
 Florian Bordes, **Sina Honari**, Pascal Vincent  
 *International Conference on Learning Representations (ICLR)*, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[poster](paper_info/2017_ICLR_infusion.md)].
+<br />
 <br />
 <br />
 <br />
