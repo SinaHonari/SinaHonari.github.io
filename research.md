@@ -28,6 +28,8 @@
 
 
 
+
+
 <img sligh="left" src="Images/research/3D_depth_hands.jpg" width="350"/>
 
 **[Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals](https://arxiv.org/abs/1712.03917)**  
