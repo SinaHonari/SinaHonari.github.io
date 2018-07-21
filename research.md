@@ -77,20 +77,20 @@ My master’s research was on representing trust in multi-agent systems. A multi
 <br />
 <br />
 
-**_Uncertainty-Based Trust Estimation in a Multi-Valued Trust Environment_**  
-**Sina Honari**, Brigitte Jaumard, Jamal Bentahar  
+**Uncertainty-Based Trust Estimation in a Multi-Valued Trust Environment**  
+Sina Honari, Brigitte Jaumard, Jamal Bentahar  
 *International Journal on Artificial Intelligence Tools (IJAIT)*, 2013.
 
-**_An Approach on Merging Agents' Trust Distributions in a Possibilitic Domain_**  
-**Sina Honari**, Brigitte Jaumard, Jamal Bentahar  
+**An Approach on Merging Agents' Trust Distributions in a Possibilitic Domain**  
+Sina Honari, Brigitte Jaumard, Jamal Bentahar  
 *Communications in Computer and Information Science (CCIS)*, 2012.
 
-**_Merging Successive Possibility Distributions for Trust Estimation Under Uncertainty in Multi-Agent Systems_**  
-**Sina Honari**, Brigitte Jaumard, Jamal Bentahar  
+**Merging Successive Possibility Distributions for Trust Estimation Under Uncertainty in Multi-Agent Systems**  
+Sina Honari, Brigitte Jaumard, Jamal Bentahar  
 *4th International Conference on Agents and Artificial Intelligence (ICAART)*, 2012.
 
-**_Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment_**  
-**Sina Honari**, Brigitte Jaumard, Jamal Bentahar  
+**Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment**  
+Sina Honari, Brigitte Jaumard, Jamal Bentahar  
 *23rd International Conference on Tools with Artificial Intelligence (ICTAI)*, 2011.
 <br />
 <br />
@@ -111,14 +111,14 @@ We designed a market maker by defining its policies such as which buy and sell d
 
 <br />
 
-**_Price Estimation of PersianCAT Market Equilibrium_**  
-**Sina Honari**, Mojtaba Ebadi, Amin Fos-hati, Maziar Gomrokchi, Jamal Bentahar, Babak Khosravifar  
+**Price Estimation of PersianCAT Market Equilibrium**  
+Sina Honari, Mojtaba Ebadi, Amin Fos-hati, Maziar Gomrokchi, Jamal Bentahar, Babak Khosravifar  
 *International Joint Conference on Artificial Intelligence, Trading Agent Design and Analysis Workshop (IJCAI-TADA 09)*, 2009.
 
-**_Simulating New Markets by Introducing New Accepting Policies for the Conventional Continuous Double Auction_**  
-**Sina Honari**, Maziar gomrokchi, Mojtaba Ebadi, Amin Fos-hati, Jamal Bentahar  
+**Simulating New Markets by Introducing New Accepting Policies for the Conventional Continuous Double Auction**  
+Sina Honari, Maziar gomrokchi, Mojtaba Ebadi, Amin Fos-hati, Jamal Bentahar  
 *Agent-Directed Simulation Symposium (ADS'08)*, 2008.
 
-**_Evaluation of PersianCAT Agent's Accepting Policy in Continuous Double Auction, Participant in CAT 2007 Competition_**  
-**Sina Honari**, Amin Fos-hati, Mojtaba Ebadi, Maziar gomrokchi  
+**Evaluation of PersianCAT Agent's Accepting Policy in Continuous Double Auction, Participant in CAT 2007 Competition**  
+Sina Honari, Amin Fos-hati, Mojtaba Ebadi, Maziar gomrokchi  
 *International Computer Society of Iran Computer Conference (CSICC)*, 2008.
