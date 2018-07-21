@@ -15,7 +15,7 @@
 
 <img align="left" src="Images/research/2018_MICCAI_Distribution_matching.jpg" width="300"/>
 
-**[distribution matching losses can halucinate features in medical image translation](https://arxiv.org/abs/1805.08841)**  
+**[Distribution Matching Losses Can Hallucinate Features in Medical Image Translation](https://arxiv.org/abs/1805.08841)**  
 Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
 *Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018 [[paper](https://arxiv.org/abs/1805.08841)][[poster](paper_info/2018_MICCAI_distribution_matching.md)].
 
