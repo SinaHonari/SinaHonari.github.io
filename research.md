@@ -78,19 +78,19 @@ My master’s research was on representing trust in multi-agent systems. A multi
 <br />
 
 **Uncertainty-Based Trust Estimation in a Multi-Valued Trust Environment**  
-Sina Honari, Brigitte Jaumard, Jamal Bentahar  
+*Sina Honari*, Brigitte Jaumard, Jamal Bentahar  
 *International Journal on Artificial Intelligence Tools (IJAIT)*, 2013.
 
 **An Approach on Merging Agents' Trust Distributions in a Possibilitic Domain**  
-Sina Honari, Brigitte Jaumard, Jamal Bentahar  
+*Sina Honari*, Brigitte Jaumard, Jamal Bentahar  
 *Communications in Computer and Information Science (CCIS)*, 2012.
 
 **Merging Successive Possibility Distributions for Trust Estimation Under Uncertainty in Multi-Agent Systems**  
-Sina Honari, Brigitte Jaumard, Jamal Bentahar  
+*Sina Honari*, Brigitte Jaumard, Jamal Bentahar  
 *4th International Conference on Agents and Artificial Intelligence (ICAART)*, 2012.
 
 **Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment**  
-Sina Honari, Brigitte Jaumard, Jamal Bentahar  
+*Sina Honari*, Brigitte Jaumard, Jamal Bentahar  
 *23rd International Conference on Tools with Artificial Intelligence (ICTAI)*, 2011.
 <br />
 <br />
@@ -112,13 +112,13 @@ We designed a market maker by defining its policies such as which buy and sell d
 <br />
 
 **Price Estimation of PersianCAT Market Equilibrium**  
-Sina Honari, Mojtaba Ebadi, Amin Fos-hati, Maziar Gomrokchi, Jamal Bentahar, Babak Khosravifar  
+*Sina Honari*, Mojtaba Ebadi, Amin Fos-hati, Maziar Gomrokchi, Jamal Bentahar, Babak Khosravifar  
 *International Joint Conference on Artificial Intelligence, Trading Agent Design and Analysis Workshop (IJCAI-TADA 09)*, 2009.
 
 **Simulating New Markets by Introducing New Accepting Policies for the Conventional Continuous Double Auction**  
-Sina Honari, Maziar gomrokchi, Mojtaba Ebadi, Amin Fos-hati, Jamal Bentahar  
+*Sina Honari*, Maziar gomrokchi, Mojtaba Ebadi, Amin Fos-hati, Jamal Bentahar  
 *Agent-Directed Simulation Symposium (ADS'08)*, 2008.
 
 **Evaluation of PersianCAT Agent's Accepting Policy in Continuous Double Auction, Participant in CAT 2007 Competition**  
-Sina Honari, Amin Fos-hati, Mojtaba Ebadi, Maziar gomrokchi  
+*Sina Honari*, Amin Fos-hati, Mojtaba Ebadi, Maziar gomrokchi  
 *International Computer Society of Iran Computer Conference (CSICC)*, 2008.
