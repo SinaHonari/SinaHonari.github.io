@@ -17,7 +17,7 @@
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
 **Sina Honari**, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz  
-*Computer Vision and Pattern Recognition (CVPR)*, 2018.
+*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1709.01591)].
 
 <br />
 <br />
@@ -30,7 +30,7 @@
 
 **[Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals](https://arxiv.org/abs/1712.03917)**  
 Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, **Sina Honari**, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim  
-*Computer Vision and Pattern Recognition (CVPR)*, 2018, spotlight presentation (**6.7%**)
+*Computer Vision and Pattern Recognition (CVPR)*, 2018, spotlight presentation (**6.7%** of submissions) [[paper](https://arxiv.org/abs/1712.03917)].
 <br />
 <br />
 <br />
@@ -40,7 +40,7 @@ Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong 
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
 Florian Bordes, **Sina Honari**, Pascal Vincent  
-*International Conference on Learning Representations (ICLR)*, 2017 [[poster](paper_info/infusion_poster.md)].
+*International Conference on Learning Representations (ICLR)*, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[poster](paper_info/infusion_poster.md)].
 <br />
 <br />
 <br />
@@ -52,7 +52,7 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
 **Sina Honari**, Jason Yosinski, Pascal Vincent, Christopher Pal  
-*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%**) [[code](https://github.com/SinaHonari/RCN)][[poster](paper_info/RCN_poster.md)].
+*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](paper_info/RCN_poster.md)].
 
 <br />
 <br />
@@ -62,7 +62,7 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)**  
 David Rim*, **Sina Honari***, Md Kamrul Hasan, Chris Pal  
-*Image and Vision Computing Journal*, 2016.
+*Image and Vision Computing Journal*, 2016 [[paper](https://arxiv.org/abs/1512.08212)].
 
 <br />
 <br />
