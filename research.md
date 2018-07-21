@@ -23,15 +23,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-
 
 
 <img sligh="left" src="Images/research/3D_depth_hands.jpg" width="350"/>
