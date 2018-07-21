@@ -13,7 +13,7 @@
 ## Machine Learning and Deep Learning
 <br />
 
-<img align="left" src="Images/research/semi_landmarks_part.jpg" width="350"/>
+<img align="left" src="Images/research/semi_landmarks_part.jpg" width="300"/>
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
 **Sina Honari**, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz  
@@ -26,17 +26,17 @@
 <br />
 
 
-<img align="left" src="Images/research/3D_depth_hands.jpg" width="350"/>
+<img align="left" src="Images/research/3D_depth_hands.jpg" width="300"/>
 
 **[Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals](https://arxiv.org/abs/1712.03917)**  
-Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, **Sina Honari**, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim
+Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, **Sina Honari**, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim  
 *Computer Vision and Pattern Recognition (CVPR)*, 2018, spotlight presentation (**6.7%**)
 <br />
 <br />
 <br />
 
 
-<img align="left" src="Images/research/infusion.jpg" width="350"/>
+<img align="left" src="Images/research/infusion.jpg" width="300"/>
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
 Florian Bordes, **Sina Honari**, Pascal Vincent  
@@ -48,7 +48,7 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 <br />
 
 
-<img align="left" src="Images/research/RCN.jpg" width="350"/>
+<img align="left" src="Images/research/RCN.jpg" width="300"/>
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
 **Sina Honari**, Jason Yosinski, Pascal Vincent, Christopher Pal  
@@ -58,7 +58,7 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 <br />
 <br />
 
-<img align="left" src="Images/research/id_exp_merge.jpg" width="350"/>  
+<img align="left" src="Images/research/id_exp_merge.jpg" width="300"/>  
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)**  
 David Rim*, **Sina Honari***, Md Kamrul Hasan, Chris Pal  
