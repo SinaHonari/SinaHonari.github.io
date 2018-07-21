@@ -13,7 +13,31 @@
 ## Machine Learning and Deep Learning
 <br />
 
-<img align="left" src="Images/research/semi_landmarks_part.jpg" width="300"/>
+<img align="left" src="Images/research/2018_MICCAI_Distribution_matching.jpg" width="300"/>
+
+**[distribution matching losses can halucinate features in medical image translation](https://arxiv.org/abs/1805.08841)**  
+Joseph Paul Cohen, Margaux Luck, **Sina Honari**
+*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1805.08841)][[poster](paper_info/2018_MICCAI_distribution_matching.md)].
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<img align="left" src="Images/research/2018_MIDL_cure_cancer.jpg" width="300"/>
+
+**[How to Cure Cancer (in images) with Unpaired Image Translation](https://openreview.net/forum?id=SJIA3pijM)**  
+Joseph Paul Cohen, Margaux Luck, **Sina Honari**
+*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://openreview.net/forum?id=SJIA3pijM)].
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<img align="left" src="Images/research/2018_CVPR_semi_landmarks_part.jpg" width="300"/>
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
 **Sina Honari**, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz  
@@ -26,7 +50,7 @@
 <br />
 
 
-<img align="left" src="Images/research/3D_depth_hands.jpg" width="300"/>
+<img align="left" src="Images/research/2018_CVPR_3D_depth_hands.jpg" width="300"/>
 
 **[Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals](https://arxiv.org/abs/1712.03917)**  
 Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, **Sina Honari**, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim  
@@ -36,7 +60,7 @@ Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong 
 <br />
 
 
-<img align="left" src="Images/research/infusion.jpg" width="300"/>
+<img align="left" src="Images/research/2017_ICLR_infusion.jpg" width="300"/>
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
 Florian Bordes, **Sina Honari**, Pascal Vincent  
@@ -48,7 +72,7 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 <br />
 
 
-<img align="left" src="Images/research/RCN.jpg" width="300"/>
+<img align="left" src="Images/research/2016_CVPR_RCN.jpg" width="300"/>
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
 **Sina Honari**, Jason Yosinski, Pascal Vincent, Christopher Pal  
@@ -58,7 +82,7 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 <br />
 <br />
 
-<img align="left" src="Images/research/id_exp_merge.jpg" width="300"/>  
+<img align="left" src="Images/research/2016_IVCJ_id_exp_merge.jpg" width="300"/>  
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)**  
 David Rim*, **Sina Honari***, Md Kamrul Hasan, Chris Pal  
