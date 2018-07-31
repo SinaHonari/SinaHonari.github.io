@@ -17,7 +17,7 @@
 
 **[Distribution Matching Losses Can Hallucinate Features in Medical Image Translation](https://arxiv.org/abs/1805.08841)**  
 Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
-*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018 [[paper](https://arxiv.org/abs/1805.08841)][[poster](paper_info/2018_MICCAI_distribution_matching.md)].
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, Oral (**4%** of submissions) [[paper](https://arxiv.org/abs/1805.08841)][[poster](paper_info/2018_MICCAI_distribution_matching.md)].
 
 <br />
 <br />
