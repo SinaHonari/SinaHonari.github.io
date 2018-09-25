@@ -17,7 +17,7 @@
 
 **[Distribution Matching Losses Can Hallucinate Features in Medical Image Translation](https://arxiv.org/abs/1805.08841)**  
 Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
-*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, Oral (**4%** of submissions) [[paper](https://arxiv.org/abs/1805.08841)][[poster](paper_info/2018_MICCAI_distribution_matching.md)].
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, Oral (**4%** of submissions) [[paper](https://arxiv.org/abs/1805.08841)][[poster](paper_info/2018_MICCAI_distribution_matching.md)][[slides](https://docs.google.com/presentation/d/1Vwj2Xt5oz4W3kMDbcSjnWrL6bcvaVK-KsHvXrds55rY/edit?usp=sharing)].
 
 <br />
 <br />
@@ -76,7 +76,7 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
 **Sina Honari**, Jason Yosinski, Pascal Vincent, Christopher Pal  
-*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](paper_info/2016_CVPR_RCN.md)].
+*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](paper_info/2016_CVPR_RCN.md)][[slides](https://docs.google.com/presentation/d/1gdxPKp731UrUwxqsUBoaFK-8S_2N6LsrJlTcswoIBFw/edit?usp=sharing)].
 
 <br />
 <br />
