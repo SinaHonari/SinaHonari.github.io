@@ -40,7 +40,7 @@ Joseph Paul Cohen, Margaux Luck, **Sina Honari**
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
 **Sina Honari**, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz  
-*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1709.01591)][[poster](paper_info/2018_CVPR_semi_sup.md)].
+*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1709.01591)][[poster](paper_info/2018_CVPR_semi_sup.md)][[slides](https://docs.google.com/presentation/d/1_8IWNenZnzEHsXZZXOQ7sh8M6Ylx_aYldymuRXIc0SA/edit?usp=sharing)].
 
 <br />
 <br />
