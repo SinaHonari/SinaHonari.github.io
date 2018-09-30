@@ -17,7 +17,7 @@
 
 **[Distribution Matching Losses Can Hallucinate Features in Medical Image Translation](https://arxiv.org/abs/1805.08841)**  
 Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
-*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, Oral (**4%** of submissions) [[paper](https://arxiv.org/abs/1805.08841)][[poster](paper_info/2018_MICCAI_distribution_matching.md)][[slides](https://docs.google.com/presentation/d/1Vwj2Xt5oz4W3kMDbcSjnWrL6bcvaVK-KsHvXrds55rY/edit?usp=sharing)].
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, Oral (**4%** of submissions) [[paper](https://arxiv.org/abs/1805.08841)][[poster](https://drive.google.com/file/d/1XQs4B2Hxl4lZrMu8f5rQmwLJXcal1wnx/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1Vwj2Xt5oz4W3kMDbcSjnWrL6bcvaVK-KsHvXrds55rY/edit?usp=sharing)].
 
 <br />
 <br />
@@ -40,7 +40,7 @@ Joseph Paul Cohen, Margaux Luck, **Sina Honari**
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
 **Sina Honari**, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz  
-*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1709.01591)][[poster](paper_info/2018_CVPR_semi_sup.md)][[slides](https://docs.google.com/presentation/d/1_8IWNenZnzEHsXZZXOQ7sh8M6Ylx_aYldymuRXIc0SA/edit?usp=sharing)].
+*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1709.01591)][[poster](https://drive.google.com/file/d/1_S7h-ZRViwcxblcLOK-sEqHbtYdNwczB/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1_8IWNenZnzEHsXZZXOQ7sh8M6Ylx_aYldymuRXIc0SA/edit?usp=sharing)].
 
 <br />
 <br />
@@ -53,7 +53,7 @@ Joseph Paul Cohen, Margaux Luck, **Sina Honari**
 
 **[Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals](https://arxiv.org/abs/1712.03917)**  
 Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, **Sina Honari**, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim  
-*Computer Vision and Pattern Recognition (CVPR)*, 2018, spotlight presentation (**6.7%** of submissions) [[paper](https://arxiv.org/abs/1712.03917)].
+*Computer Vision and Pattern Recognition (CVPR)*, 2018, spotlight presentation (**6.7%** of submissions) [[paper](https://arxiv.org/abs/1712.03917)][[poster](https://drive.google.com/file/d/0B-tmaef4w8hxWUtSX0xkaHU2ajF0amxXVHducU81OS1mTXc4/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1ARs29WZsxRdkPNHH7Pv3y3q3agH9ZqPqDtflFNXaLE4/edit?usp=sharing)].
 <br />
 <br />
 <br />
@@ -63,7 +63,7 @@ Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong 
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
 Florian Bordes, **Sina Honari**, Pascal Vincent  
-*International Conference on Learning Representations (ICLR)*, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[poster](paper_info/2017_ICLR_infusion.md)].
+*International Conference on Learning Representations (ICLR)*, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[poster](https://drive.google.com/file/d/1L4Dy6o8QR2N65oWeUoNiJ0LQkzW2xRJc/view?usp=sharing)].
 <br />
 <br />
 <br />
@@ -76,7 +76,7 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
 **Sina Honari**, Jason Yosinski, Pascal Vincent, Christopher Pal  
-*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](paper_info/2016_CVPR_RCN.md)][[slides](https://docs.google.com/presentation/d/1gdxPKp731UrUwxqsUBoaFK-8S_2N6LsrJlTcswoIBFw/edit?usp=sharing)].
+*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](https://drive.google.com/file/d/18-5tCLA6IglvkiApG4euePUIWYoh3zXG/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1gdxPKp731UrUwxqsUBoaFK-8S_2N6LsrJlTcswoIBFw/edit?usp=sharing)].
 
 <br />
 <br />
