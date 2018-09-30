@@ -13,6 +13,16 @@
 ## Machine Learning and Deep Learning
 <br />
 
+<img align="left" src="Images/research/2018_NIPS_DepthNet.gif" width="300"/>
+
+**[Unsupervised Depth Estimation, 3D Face Rotation and Replacement](https://arxiv.org/abs/1803.09202)**  
+Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honari**, Christopher Pal  
+*Neural Information Processing Systems (NIPS)*, 2018, [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://docs.google.com/presentation/d/18w4ty-Yu1r1ZnPvEgLPWtAk-lsENgAxQNg14bwg1jbY/edit?usp=sharing)].
+
+<br />
+<br />
+<br />
+
 <img align="left" src="Images/research/2018_MICCAI_Distribution_matching.jpg" width="300"/>
 
 **[Distribution Matching Losses Can Hallucinate Features in Medical Image Translation](https://arxiv.org/abs/1805.08841)**  
