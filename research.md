@@ -21,7 +21,6 @@ Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honar
 
 <br />
 <br />
-<br />
 
 <img align="left" src="Images/research/2018_MICCAI_Distribution_matching.jpg" width="300"/>
 
