@@ -63,7 +63,7 @@ Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong 
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
 Florian Bordes, **Sina Honari**, Pascal Vincent  
-*International Conference on Learning Representations (ICLR)*, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[poster](https://drive.google.com/file/d/1L4Dy6o8QR2N65oWeUoNiJ0LQkzW2xRJc/view?usp=sharing)].
+*International Conference on Learning Representations (ICLR)*, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[code](https://github.com/bordesf/Infusion)][[poster](https://drive.google.com/file/d/1L4Dy6o8QR2N65oWeUoNiJ0LQkzW2xRJc/view?usp=sharing)].
 <br />
 <br />
 <br />
