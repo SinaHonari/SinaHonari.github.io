@@ -69,7 +69,6 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 <br />
 <br />
 <br />
-<br />
 
 
 <img align="left" src="Images/research/2016_CVPR_RCN.jpg" width="300"/>
