@@ -22,7 +22,7 @@ Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honar
 <br />
 <br />
 
-<img align="left" src="Images/research/2018_MICCAI_Distribution_matching.jpg" width="300"/>
+<img align="left" src="Images/research/2018_MICCAI_Distribution_matching_v2.jpg" width="300"/>
 
 **[Distribution Matching Losses Can Hallucinate Features in Medical Image Translation](https://arxiv.org/abs/1805.08841)**  
 Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
