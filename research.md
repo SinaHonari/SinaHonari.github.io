@@ -17,7 +17,7 @@
 
 **[Unsupervised Depth Estimation, 3D Face Rotation and Replacement](https://arxiv.org/abs/1803.09202)**  
 Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honari**, Christopher Pal  
-*Neural Information Processing Systems (NIPS)*, 2018, [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://docs.google.com/presentation/d/18w4ty-Yu1r1ZnPvEgLPWtAk-lsENgAxQNg14bwg1jbY/edit?usp=sharing)].
+*Neural Information Processing Systems (NIPS)*, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://docs.google.com/presentation/d/18w4ty-Yu1r1ZnPvEgLPWtAk-lsENgAxQNg14bwg1jbY/edit?usp=sharing)].
 
 <br />
 <br />
