@@ -26,7 +26,7 @@ Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honar
 
 **[Distribution Matching Losses Can Hallucinate Features in Medical Image Translation](https://arxiv.org/abs/1805.08841)**  
 Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
-*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, Oral (**4%** of submissions) [[paper](https://arxiv.org/abs/1805.08841)][[poster](https://drive.google.com/file/d/1XQs4B2Hxl4lZrMu8f5rQmwLJXcal1wnx/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1Vwj2Xt5oz4W3kMDbcSjnWrL6bcvaVK-KsHvXrds55rY/edit?usp=sharing)].
+*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, Oral (**4%** of submissions) [[paper](https://arxiv.org/abs/1805.08841)][[poster](https://drive.google.com/file/d/1XQs4B2Hxl4lZrMu8f5rQmwLJXcal1wnx/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys/edit?usp=sharing)].
 
 <br />
 <br />
@@ -49,7 +49,7 @@ Joseph Paul Cohen, Margaux Luck, **Sina Honari**
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
 **Sina Honari**, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz  
-*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1709.01591)][[poster](https://drive.google.com/file/d/1_S7h-ZRViwcxblcLOK-sEqHbtYdNwczB/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1_8IWNenZnzEHsXZZXOQ7sh8M6Ylx_aYldymuRXIc0SA/edit?usp=sharing)][[video](https://www.youtube.com/watch?v=ZYx3jek0KCs)].
+*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1709.01591)][[poster](https://drive.google.com/file/d/1_S7h-ZRViwcxblcLOK-sEqHbtYdNwczB/view?usp=sharing)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[video](https://www.youtube.com/watch?v=ZYx3jek0KCs)].
 
 <br />
 <br />
