@@ -7,7 +7,7 @@
 -----------------------------
 
 I am a PhD student in the [Mila](https://mila.quebec/en/) lab at [University of Montreal](http://www.umontreal.ca/en/) working with [Christopher Pal](https://scholar.google.ca/citations?user=1ScWJOoAAAAJ&hl=en) and [Pascal Vincent](https://scholar.google.com/citations?user=WBCKQMsAAAAJ). 
-My broad research domains are machine learning and computer vision. I am particularly interested in developing deep learning techniques for computer vision problems. My current research interests are proposing semi-supervised and unsupervised techniques for computer vision problems and also disentangling factor of variations in deep neural networks. My long term goal is to bring artificial intelligence to day to day life. 
+My broad research domains are developing machine learning and deep learning techniques for computer vision tasks. My current research interests are proposing semi-supervised and unsupervised techniques for computer vision problems and also disentangling factors of variation in deep neural networks. My long term goal is to bring artificial intelligence into day to day life. 
 
 I completed my masters in computer science at [Concordia University](https://www.concordia.ca/) under supervision of [Brigitte Jaumard](https://www.brigittejaumard.com/) and [Jamal Bentahar](https://users.encs.concordia.ca/~bentahar/). My thesis was titled "Under Uncertainty Trust Estimation in Multi-Valued Settings". 
 
