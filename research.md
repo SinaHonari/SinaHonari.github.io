@@ -10,14 +10,36 @@
 <br />
 <br />
 
-## Machine Learning and Deep Learning
+## Machine Learning and Computer Vision
 <br />
+
+
+<img align="left" src="Images/research/2019_NeurIPS_mixup.jpg" width="300"/>
+
+
+**[On Adversarial Mixup Resynthesis](https://arxiv.org/abs/1903.02709)**  
+Christopher Beckham, **Sina Honari**, Vikas Verma, Alex Lamb, Farnoosh Ghadiri, R Devon Hjelm, Yoshua Bengio, and Christopher Pal, <br />
+**Neural Information Processing Systems (NeurIPS)**, 2019 [[paper](https://arxiv.org/abs/1903.02709)][[code](https://github.com/christopher-beckham/amr)].
+
+<br />
+<br />
+<br />
+
+<img align="left" src="Images/research/2019_MICCAI_unet_quantization.jpg" width="300"/>
+
+**[U-Net Fixed-Point Quantization for Medical Image Segmentation](https://arxiv.org/abs/1908.01073)**  
+MohammadHossein AskariHemmat, **Sina Honari**, Lucas Rouhier, Christian S. Perone, Julien Cohen-Adad, Yvon Savaria, and Jean-Pierre David, <br />
+**Medical Image Computing and Computer Assisted Intervention (MICCAI)**-Hardware Aware Learning for Medical Imaging and Computer Assisted Intervention workshop, 2019 [[paper](https://arxiv.org/abs/1908.01073)][[slides](https://drive.google.com/file/d/1avWVy_PAPq8CT745VywdwPHjS_YG9-Xp/view?usp=sharing)][[code](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation)].
+
+<br />
+<br />
+
 
 <img align="left" src="Images/research/2018_NIPS_DepthNet.gif" width="300"/>
 
 **[Unsupervised Depth Estimation, 3D Face Rotation and Replacement](https://arxiv.org/abs/1803.09202)**  
-Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honari**, Christopher Pal  
-*Neural Information Processing Systems (NIPS)*, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[poster](https://drive.google.com/open?id=19ymxpQZhE9soainqVQe_xugawYIz8eq8)][[video](https://www.youtube.com/watch?v=h_brJWd7nNg&feature=youtu.be)][[code](https://github.com/joelmoniz/DepthNets/tree/master)].
+Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honari**, and Christopher Pal, <br />
+**Neural Information Processing Systems (NIPS)**, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[poster](https://drive.google.com/open?id=19ymxpQZhE9soainqVQe_xugawYIz8eq8)][[video](https://www.youtube.com/watch?v=h_brJWd7nNg&feature=youtu.be)][[code](https://github.com/joelmoniz/DepthNets/tree/master)].
 
 <br />
 <br />
@@ -25,8 +47,8 @@ Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honar
 <img align="left" src="Images/research/2018_MICCAI_Distribution_matching_v2.jpg" width="300"/>
 
 **[Distribution Matching Losses Can Hallucinate Features in Medical Image Translation](https://arxiv.org/abs/1805.08841)**  
-Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
-*Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2018, Oral (**4%** of submissions) [[paper](https://arxiv.org/abs/1805.08841)][[poster](https://drive.google.com/file/d/1XQs4B2Hxl4lZrMu8f5rQmwLJXcal1wnx/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1Vwj2Xt5oz4W3kMDbcSjnWrL6bcvaVK-KsHvXrds55rY/edit?usp=sharing)].
+Joseph Paul Cohen, Margaux Luck, and **Sina Honari**, <br />
+**Medical Image Computing and Computer Assisted Intervention (MICCAI)**, 2018, Oral (**4%** of submissions) [[paper](https://arxiv.org/abs/1805.08841)][[poster](https://drive.google.com/file/d/1XQs4B2Hxl4lZrMu8f5rQmwLJXcal1wnx/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1Vwj2Xt5oz4W3kMDbcSjnWrL6bcvaVK-KsHvXrds55rY/edit?usp=sharing)].
 
 <br />
 <br />
@@ -36,8 +58,8 @@ Joseph Paul Cohen, Margaux Luck, **Sina Honari**
 <img align="left" src="Images/research/2018_MIDL_cure_cancer.jpg" width="300"/>
 
 **[How to Cure Cancer (in images) with Unpaired Image Translation](https://openreview.net/forum?id=SJIA3pijM)**  
-Joseph Paul Cohen, Margaux Luck, **Sina Honari**  
-*Medical Imaging with Deep Learning (MIDL)*, 2018 [[paper](https://openreview.net/forum?id=SJIA3pijM)].
+Joseph Paul Cohen, Margaux Luck, and **Sina Honari**, <br />
+**Medical Imaging with Deep Learning (MIDL)**, 2018 [[paper](https://openreview.net/forum?id=SJIA3pijM)].
 
 <br />
 <br />
@@ -48,8 +70,8 @@ Joseph Paul Cohen, Margaux Luck, **Sina Honari**
 <img align="left" src="Images/research/2018_CVPR_semi_landmarks_part.jpg" width="300"/>
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
-**Sina Honari**, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz  
-*Computer Vision and Pattern Recognition (CVPR)*, 2018 [[paper](https://arxiv.org/abs/1709.01591)][[poster](https://drive.google.com/file/d/1_S7h-ZRViwcxblcLOK-sEqHbtYdNwczB/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1_8IWNenZnzEHsXZZXOQ7sh8M6Ylx_aYldymuRXIc0SA/edit?usp=sharing)][[video](https://www.youtube.com/watch?v=ZYx3jek0KCs)].
+**Sina Honari**, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, and Jan Kautz, <br />
+**Computer Vision and Pattern Recognition (CVPR)**, 2018 [[paper](https://arxiv.org/abs/1709.01591)][[poster](https://drive.google.com/file/d/1_S7h-ZRViwcxblcLOK-sEqHbtYdNwczB/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1_8IWNenZnzEHsXZZXOQ7sh8M6Ylx_aYldymuRXIc0SA/edit?usp=sharing)][[video](https://www.youtube.com/watch?v=ZYx3jek0KCs)].
 
 <br />
 <br />
@@ -61,8 +83,8 @@ Joseph Paul Cohen, Margaux Luck, **Sina Honari**
 <img align="left" src="Images/research/2018_CVPR_3D_depth_hands.jpg" width="300"/>
 
 **[Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals](https://arxiv.org/abs/1712.03917)**  
-Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, **Sina Honari**, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim  
-*Computer Vision and Pattern Recognition (CVPR)*, 2018, spotlight presentation (**6.7%** of submissions) [[paper](https://arxiv.org/abs/1712.03917)][[poster](https://drive.google.com/file/d/0B-tmaef4w8hxWUtSX0xkaHU2ajF0amxXVHducU81OS1mTXc4/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1ARs29WZsxRdkPNHH7Pv3y3q3agH9ZqPqDtflFNXaLE4/edit?usp=sharing)].
+Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, **Sina Honari**, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, and Tae-Kyun Kim, <br />
+**Computer Vision and Pattern Recognition (CVPR)**, 2018, spotlight presentation (**6.7%** of submissions) [[paper](https://arxiv.org/abs/1712.03917)][[poster](https://drive.google.com/file/d/0B-tmaef4w8hxWUtSX0xkaHU2ajF0amxXVHducU81OS1mTXc4/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1ARs29WZsxRdkPNHH7Pv3y3q3agH9ZqPqDtflFNXaLE4/edit?usp=sharing)].
 <br />
 <br />
 <br />
@@ -71,8 +93,8 @@ Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong 
 <img align="left" src="Images/research/2017_ICLR_infusion.jpg" width="300"/>
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
-Florian Bordes, **Sina Honari**, Pascal Vincent  
-*International Conference on Learning Representations (ICLR)*, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[code](https://github.com/bordesf/Infusion)][[poster](https://drive.google.com/file/d/1L4Dy6o8QR2N65oWeUoNiJ0LQkzW2xRJc/view?usp=sharing)].
+Florian Bordes, **Sina Honari**, and Pascal Vincent, <br />
+**International Conference on Learning Representations (ICLR)**, 2017 [[paper](https://arxiv.org/abs/1703.06975)][[code](https://github.com/bordesf/Infusion)][[poster](https://drive.google.com/file/d/1L4Dy6o8QR2N65oWeUoNiJ0LQkzW2xRJc/view?usp=sharing)].
 <br />
 <br />
 <br />
@@ -83,8 +105,8 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 <img align="left" src="Images/research/2016_CVPR_RCN.jpg" width="300"/>
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
-**Sina Honari**, Jason Yosinski, Pascal Vincent, Christopher Pal  
-*Computer Vision and Pattern Recognition (CVPR)*, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](https://drive.google.com/file/d/18-5tCLA6IglvkiApG4euePUIWYoh3zXG/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1gdxPKp731UrUwxqsUBoaFK-8S_2N6LsrJlTcswoIBFw/edit?usp=sharing)].
+**Sina Honari**, Jason Yosinski, Pascal Vincent, and Christopher Pal, <br /> 
+**Computer Vision and Pattern Recognition (CVPR)**, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](https://drive.google.com/file/d/18-5tCLA6IglvkiApG4euePUIWYoh3zXG/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1gdxPKp731UrUwxqsUBoaFK-8S_2N6LsrJlTcswoIBFw/edit?usp=sharing)].
 
 <br />
 <br />
@@ -93,8 +115,8 @@ Florian Bordes, **Sina Honari**, Pascal Vincent
 <img align="left" src="Images/research/2016_IVCJ_id_exp_merge.jpg" width="300"/>  
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)**  
-David Rim*, **Sina Honari***, Md Kamrul Hasan, Chris Pal  
-*Image and Vision Computing Journal*, 2016 [[paper](https://arxiv.org/abs/1512.08212)].
+David Rim*, **Sina Honari***, Md Kamrul Hasan, and Christopher Pal, <br />
+**Image and Vision Computing Journal**, 2016 [[paper](https://arxiv.org/abs/1512.08212)].
 
 <br />
 <br />
@@ -115,19 +137,19 @@ My master’s research was on representing trust in multi-agent systems. A multi
 <br />
 
 **Uncertainty-Based Trust Estimation in a Multi-Valued Trust Environment**  
-Sina Honari, Brigitte Jaumard, Jamal Bentahar  
+**Sina Honari**, Brigitte Jaumard, and Jamal Bentahar <br />
 *International Journal on Artificial Intelligence Tools (IJAIT)*, 2013.
 
 **An Approach on Merging Agents' Trust Distributions in a Possibilitic Domain**  
-Sina Honari, Brigitte Jaumard, Jamal Bentahar  
+**Sina Honari**, Brigitte Jaumard, and Jamal Bentahar <br />
 *Communications in Computer and Information Science (CCIS)*, 2012.
 
 **Merging Successive Possibility Distributions for Trust Estimation Under Uncertainty in Multi-Agent Systems**  
-Sina Honari, Brigitte Jaumard, Jamal Bentahar  
+**Sina Honari**, Brigitte Jaumard, and Jamal Bentahar <br />
 *4th International Conference on Agents and Artificial Intelligence (ICAART)*, 2012.
 
 **Under Uncertainty Trust Estimation through Unknown Agents, in a Multi-Valued Trust Environment**  
-Sina Honari, Brigitte Jaumard, Jamal Bentahar  
+**Sina Honari**, Brigitte Jaumard, and Jamal Bentahar <br />
 *23rd International Conference on Tools with Artificial Intelligence (ICTAI)*, 2011.
 <br />
 <br />
@@ -149,13 +171,13 @@ We designed a market maker by defining its policies such as which buy and sell d
 <br />
 
 **Price Estimation of PersianCAT Market Equilibrium**  
-Sina Honari, Mojtaba Ebadi, Amin Fos-hati, Maziar Gomrokchi, Jamal Bentahar, Babak Khosravifar  
+**Sina Honari**, Mojtaba Ebadi, Amin Fos-hati, Maziar Gomrokchi, Jamal Bentahar, and Babak Khosravifar <br />
 *International Joint Conference on Artificial Intelligence, Trading Agent Design and Analysis Workshop (IJCAI-TADA 09)*, 2009.
 
 **Simulating New Markets by Introducing New Accepting Policies for the Conventional Continuous Double Auction**  
-Sina Honari, Maziar gomrokchi, Mojtaba Ebadi, Amin Fos-hati, Jamal Bentahar  
+**Sina Honari**, Maziar gomrokchi, Mojtaba Ebadi, Amin Fos-hati, and Jamal Bentahar <br />
 *Agent-Directed Simulation Symposium (ADS'08)*, 2008.
 
 **Evaluation of PersianCAT Agent's Accepting Policy in Continuous Double Auction, Participant in CAT 2007 Competition**  
-Sina Honari, Amin Fos-hati, Mojtaba Ebadi, Maziar gomrokchi  
+**Sina Honari**, Amin Fos-hati, Mojtaba Ebadi, and Maziar gomrokchi  <br />
 *International Computer Society of Iran Computer Conference (CSICC)*, 2008.
