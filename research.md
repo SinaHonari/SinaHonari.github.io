@@ -19,7 +19,7 @@
 
 **[On Adversarial Mixup Resynthesis](https://arxiv.org/abs/1903.02709)**  
 Christopher Beckham, **Sina Honari**, Vikas Verma, Alex Lamb, Farnoosh Ghadiri, R Devon Hjelm, Yoshua Bengio, and Christopher Pal, <br />
-**Neural Information Processing Systems (NeurIPS)**, 2019 [[paper](https://arxiv.org/abs/1903.02709)][[code](https://github.com/christopher-beckham/amr)].
+**Neural Information Processing Systems (NeurIPS)**, 2019 [[paper](https://arxiv.org/abs/1903.02709)][[video](https://www.youtube.com/watch?v=ezbC3_VZeNY)][[code](https://github.com/christopher-beckham/amr)].
 
 <br />
 <br />
