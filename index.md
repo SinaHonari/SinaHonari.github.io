@@ -6,12 +6,12 @@
 
 -----------------------------
 
-I am a PhD student in the [Mila](https://mila.quebec/en/) lab at [University of Montreal](http://www.umontreal.ca/en/) working with [Christopher Pal](https://scholar.google.ca/citations?user=1ScWJOoAAAAJ&hl=en) and [Pascal Vincent](https://scholar.google.com/citations?user=WBCKQMsAAAAJ). 
-My broad research domains are developing machine learning and deep learning techniques for computer vision tasks. My current research interests are proposing semi-supervised and unsupervised techniques for computer vision problems and also disentangling factors of variation in deep neural networks. My long term goal is to bring artificial intelligence into day to day life. 
+I am a postdoctoral researcher in the computer vision lab ([CVlab](https://www.epfl.ch/labs/cvlab/)) at [EPFL](https://www.epfl.ch/en/) working with [Pascal Fua](https://people.epfl.ch/pascal.fua/bio?lang=en) and [Mathieu Salzmann](https://people.epfl.ch/mathieu.salzmann). 
+I completed my PhD in 2019 at [Mila](https://mila.quebec/en/) and [University of Montreal](http://www.umontreal.ca/en/) under supervision of [Christopher Pal](https://scholar.google.ca/citations?user=1ScWJOoAAAAJ&hl=en) and [Pascal Vincent](https://scholar.google.com/citations?user=WBCKQMsAAAAJ). I held a short-term postdoctoral position at Mila and [Polytéchnique Montréal](https://www.polymtl.ca/en) with Christopher Pal before joining the CVlab.    
 
-I completed my masters in computer science at [Concordia University](https://www.concordia.ca/) under supervision of [Brigitte Jaumard](https://www.brigittejaumard.com/) and [Jamal Bentahar](https://users.encs.concordia.ca/~bentahar/). My thesis was titled "Under Uncertainty Trust Estimation in Multi-Valued Settings". 
+My broad research domains are developing machine learning and deep learning techniques for computer vision problems. In particular, I am interested in semi-supervised, self-supervised and unsupervised learning techniques for computer vision problems and also disentangling factors of variation in deep learning models. My goal is to make deep learning techniques applicable to problems where few or no labelled data exist.
 
-I interned at Morgan Stanely as trade technology analyst and at NVIDIA Research as deep learning researcher. My PhD was partially funded by Fonds de Recherche du Québec - Nature et Technologies ([FRQNT](http://www.frqnt.gouv.qc.ca/en/le-frqnt)).
+During my studies, I interned at Morgan Stanely as a trade technology analyst and at NVIDIA's Learning & Perception Research team (led by [Jan Kautz](https://research.nvidia.com/person/jan-kautz)) as a deep learning researcher. My PhD was partially funded by Fonds de Recherche du Québec - Nature et Technologies ([FRQNT](http://www.frqnt.gouv.qc.ca/en/le-frqnt)).
 
 <br/>
 <br/>
