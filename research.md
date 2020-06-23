@@ -13,6 +13,17 @@
 ## Machine Learning and Computer Vision
 <br />
 
+<img align="left" src="Images/research/teaser/2020_CVPR_teaser.png" width="300"/>
+
+
+**[Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation](https://arxiv.org/pdf/2004.02186.pdf)**  <br />
+Edoardo Remelli, Shangchen Han, **Sina Honari**, Pascal Fua, and Robert Wang, <br />
+**Computer Vision and Pattern Recognition (CVPR)**, 2020 [[paper](https://arxiv.org/pdf/2004.02186.pdf)][[slides](Images/research/slides/2020_CVPR_slides.pdf)][[video](https://drive.google.com/file/d/1lO9LNH5rL1eZ4vHuitLzLHhHXsAQn0rM/view?usp=sharing)].
+
+<br />
+<br />
+<br />
+
 
 <img align="left" src="Images/research/teaser/2019_NeurIPS_mixup.jpg" width="300"/>
 
