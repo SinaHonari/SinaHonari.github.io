@@ -14,7 +14,7 @@
 <br />
 
 
-<img align="left" src="Images/research/2019_NeurIPS_mixup.jpg" width="300"/>
+<img align="left" src="Images/research/teaser/2019_NeurIPS_mixup.jpg" width="300"/>
 
 
 **[On Adversarial Mixup Resynthesis](https://arxiv.org/abs/1903.02709)**  
@@ -25,7 +25,7 @@ Christopher Beckham, **Sina Honari**, Vikas Verma, Alex Lamb, Farnoosh Ghadiri, 
 <br />
 <br />
 
-<img align="left" src="Images/research/2019_MICCAI_unet_quantization.jpg" width="300"/>
+<img align="left" src="Images/research/teaser/2019_MICCAI_unet_quantization.jpg" width="300"/>
 
 **[U-Net Fixed-Point Quantization for Medical Image Segmentation](https://arxiv.org/abs/1908.01073)**  
 MohammadHossein AskariHemmat, **Sina Honari**, Lucas Rouhier, Christian S. Perone, Julien Cohen-Adad, Yvon Savaria, and Jean-Pierre David, <br />
@@ -35,7 +35,7 @@ MohammadHossein AskariHemmat, **Sina Honari**, Lucas Rouhier, Christian S. Peron
 <br />
 
 
-<img align="left" src="Images/research/2018_NIPS_DepthNet.gif" width="300"/>
+<img align="left" src="Images/research/teaser/2018_NIPS_DepthNet.gif" width="300"/>
 
 **[Unsupervised Depth Estimation, 3D Face Rotation and Replacement](https://arxiv.org/abs/1803.09202)**  
 Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honari**, and Christopher Pal, <br />
@@ -44,7 +44,7 @@ Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honar
 <br />
 <br />
 
-<img align="left" src="Images/research/2018_MICCAI_Distribution_matching_v2.jpg" width="300"/>
+<img align="left" src="Images/research/teaser/2018_MICCAI_Distribution_matching_v2.jpg" width="300"/>
 
 **[Distribution Matching Losses Can Hallucinate Features in Medical Image Translation](https://arxiv.org/abs/1805.08841)**  
 Joseph Paul Cohen, Margaux Luck, and **Sina Honari**, <br />
@@ -55,7 +55,7 @@ Joseph Paul Cohen, Margaux Luck, and **Sina Honari**, <br />
 <br />
 <br />
 
-<img align="left" src="Images/research/2018_MIDL_cure_cancer.jpg" width="300"/>
+<img align="left" src="Images/research/teaser/2018_MIDL_cure_cancer.jpg" width="300"/>
 
 **[How to Cure Cancer (in images) with Unpaired Image Translation](https://openreview.net/forum?id=SJIA3pijM)**  
 Joseph Paul Cohen, Margaux Luck, and **Sina Honari**, <br />
@@ -67,7 +67,7 @@ Joseph Paul Cohen, Margaux Luck, and **Sina Honari**, <br />
 <br />
 <br />
 
-<img align="left" src="Images/research/2018_CVPR_semi_landmarks_part.jpg" width="300"/>
+<img align="left" src="Images/research/teaser/2018_CVPR_semi_landmarks_part.jpg" width="300"/>
 
 **[Improving Landmark Localization with Semi-Supervised Learning](https://arxiv.org/abs/1709.01591)**  
 **Sina Honari**, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, and Jan Kautz, <br />
@@ -80,7 +80,7 @@ Joseph Paul Cohen, Margaux Luck, and **Sina Honari**, <br />
 <br />
 
 
-<img align="left" src="Images/research/2018_CVPR_3D_depth_hands.jpg" width="300"/>
+<img align="left" src="Images/research/teaser/2018_CVPR_3D_depth_hands.jpg" width="300"/>
 
 **[Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals](https://arxiv.org/abs/1712.03917)**  
 Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, **Sina Honari**, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, and Tae-Kyun Kim, <br />
@@ -90,7 +90,7 @@ Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong 
 <br />
 
 
-<img align="left" src="Images/research/2017_ICLR_infusion.jpg" width="300"/>
+<img align="left" src="Images/research/teaser/2017_ICLR_infusion.jpg" width="300"/>
 
 **[Learning to generate samples from noise through infusion training](https://arxiv.org/abs/1703.06975)**  
 Florian Bordes, **Sina Honari**, and Pascal Vincent, <br />
@@ -102,7 +102,7 @@ Florian Bordes, **Sina Honari**, and Pascal Vincent, <br />
 <br />
 
 
-<img align="left" src="Images/research/2016_CVPR_RCN.jpg" width="300"/>
+<img align="left" src="Images/research/teaser/2016_CVPR_RCN.jpg" width="300"/>
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
 **Sina Honari**, Jason Yosinski, Pascal Vincent, and Christopher Pal, <br /> 
@@ -112,7 +112,7 @@ Florian Bordes, **Sina Honari**, and Pascal Vincent, <br />
 <br />
 <br />
 
-<img align="left" src="Images/research/2016_IVCJ_id_exp_merge.jpg" width="300"/>  
+<img align="left" src="Images/research/teaser/2016_IVCJ_id_exp_merge.jpg" width="300"/>  
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)**  
 David Rim*, **Sina Honari***, Md Kamrul Hasan, and Christopher Pal, <br />
@@ -129,7 +129,7 @@ David Rim*, **Sina Honari***, Md Kamrul Hasan, and Christopher Pal, <br />
 <br />
 
 <h6>
-<img align="left" src="Images/research/multi_agent.png" width="250"/>
+<img align="left" src="Images/research/teaser/multi_agent.png" width="250"/>
 My master’s research was on representing trust in multi-agent systems. A multi-agent system is composed of many interacting, rational and autonomous computer systems known as agents, each with their own objectives and knowledge of each other. In general agents may cooperate with each other or pursue their own objectives greedily. Trust is the expectation or the belief that a party will act benignly and cooperatively with the trusting party. In this research I proposed a trust representation of an agent based on possibility theory which allowed merging of information received from different agents considering the uncertainties in the acquired information. This allowed representing the trust of an agent through the information acquired from other agents.
 </h6>
 
@@ -160,7 +160,7 @@ My master’s research was on representing trust in multi-agent systems. A multi
 <br />
 
 <h6> 
-<img align="left" src="Images/research/market3.jpg" width="320"/>
+<img align="left" src="Images/research/teaser/market3.jpg" width="320"/>
 In the final years of my undergrad I worked on market mechanism design. As part of this research I participated in the international Trading Agent Competition - Market Design Scenation (TAC-CAT).
 Market is a group of interacting entities through platforms like stock-exchanges, a decentralized system with interacting self-interested agents whose activities are buying and selling goods and services.
 In this context, a mechanism is a combination of strategies available to participant agents in the system and the outcome rules, which provides solutions to resource allocation problems. The goal here was to design market makers.
