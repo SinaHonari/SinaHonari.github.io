@@ -18,7 +18,7 @@
 
 **[Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation](https://arxiv.org/pdf/2004.02186.pdf)**  <br />
 Edoardo Remelli, Shangchen Han, **Sina Honari**, Pascal Fua, and Robert Wang, <br />
-**Computer Vision and Pattern Recognition (CVPR)**, 2020 [[paper](https://arxiv.org/pdf/2004.02186.pdf)][[slides](Images/research/slides/2020_CVPR_slides.pdf)][[video](https://drive.google.com/file/d/1lO9LNH5rL1eZ4vHuitLzLHhHXsAQn0rM/view?usp=sharing)].
+**Computer Vision and Pattern Recognition (CVPR)**, 2020 [[paper](https://arxiv.org/pdf/2004.02186.pdf)][[slides](Images/research/slides/2020_CVPR_slides.pdf)][[video](https://drive.google.com/file/d/1lO9LNH5rL1eZ4vHuitLzLHhHXsAQn0rM/view?usp=sharing)][[code](https://github.com/edoRemelli/DiffDLT)].
 
 <br />
 <br />
