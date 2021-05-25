@@ -36,4 +36,5 @@
 
 • **English** (Fluent)  
 • **French** (Advanced)  
+• **German** (Beginner)  
 • **Farsi** (Native)
