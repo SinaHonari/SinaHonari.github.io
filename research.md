@@ -13,6 +13,31 @@
 ## Machine Learning and Computer Vision
 <br />
 
+
+<img align="left" src="Images/research/teaser/2021_NeurIPS_bias.jpg" width="300"/>
+
+
+**[Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/pdf?id=OTnqQUEwPKu)**  <br />
+Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero-Soriano, Samira Shabanian*, **Sina Honari***, <br />
+**Neural Information Processing Systems (NeurIPS)**, 2021 [[paper](https://openreview.net/forum?id=OTnqQUEwPKu)][[slides](https://drive.google.com/file/d/1-0JdsU9cDSRtUX1BOLH4H2T-UZ9bSAid/view?usp=sharing)][[video](https://recorder-v3.slideslive.com/#/share?share=54040&s=377dffa4-465c-4544-a4b5-679257b46c27)][[code](https://github.com/charan223/FairDeepLearning)].
+
+<br />
+<br />
+<br />
+
+
+<img align="left" src="Images/research/teaser/2021_NeurIPS_anomaly.jpg" width="300"/>
+
+
+**[SegmentMeIfYouCan: A Benchmark for Anomaly Segmentation](https://arxiv.org/pdf/2104.14812.pdf)**  <br />
+Robin Chan*, Krzysztof Lis*, Svenja Uhlemeyer*, Hermann Blum*, **Sina Honari**, Roland Siegwart, Mathieu Salzmann, Pascal Fua, and Matthias Rottmann, <br />
+**Neural Information Processing Systems (NeurIPS)**, 2021 [[paper](https://arxiv.org/pdf/2104.14812.pdf)][[slides](https://segmentmeifyoucan.github.io/segment-me-presentation/)][[website](https://segmentmeifyoucan.com/)][[code](https://github.com/SegmentMeIfYouCan/road-anomaly-benchmark)].
+
+<br />
+<br />
+<br />
+
+
 <img align="left" src="Images/research/teaser/2020_CVPR_teaser.png" width="300"/>
 
 
