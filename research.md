@@ -14,11 +14,56 @@
 <br />
 
 
+<img align="left" src="Images/research/teaser/2021_unsup_3D_pose.jpg" width="300"/>
+
+
+**[Unsupervised Learning on Monocular Videos for 3D Human Pose Estimation](https://arxiv.org/pdf/2012.01511.pdf)**  <br />
+**Sina Honari**, Victor Constantin, Helge Rhodin, Mathieu Salzmann, and Pascal Fua, <br />
+ArXiv pre-print, 2021 [[paper](https://arxiv.org/pdf/2012.01511.pdf)].
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+<img align="left" src="Images/research/teaser/2021_VQA.jpg" width="300"/>
+
+
+**[Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests](https://openreview.net/pdf?id=aYbCpFNnHdh)**  <br />
+Christopher Beckham, Martin Weiss, Florian Golemo, **Sina Honari**, Derek Nowrouzezahrai, and Christopher Pal, <br />
+Openreview pre-print, 2021 [[paper](https://openreview.net/pdf?id=aYbCpFNnHdh)].
+
+<br />
+<br />
+<br />
+
+
+
+<img align="left" src="Images/research/teaser/2021_road_inpainting.jpg" width="300"/>
+
+
+**[Detecting Road Obstacles by Erasing Them](https://arxiv.org/pdf/2012.13633.pdf)**  <br />
+Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann, <br />
+ArXiv pre-print, 2021 [[paper](https://arxiv.org/pdf/2012.13633.pdf)]].
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 <img align="left" src="Images/research/teaser/2021_NeurIPS_bias.jpg" width="300"/>
 
 
 **[Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/pdf?id=OTnqQUEwPKu)**  <br />
-Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero-Soriano, Samira Shabanian*, **Sina Honari***, <br />
+Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero-Soriano, Samira Shabanian*, and **Sina Honari***, <br />
 **Neural Information Processing Systems (NeurIPS)**, 2021 [[paper](https://openreview.net/forum?id=OTnqQUEwPKu)][[slides](https://drive.google.com/file/d/1-0JdsU9cDSRtUX1BOLH4H2T-UZ9bSAid/view?usp=sharing)][[video](https://recorder-v3.slideslive.com/#/share?share=54040&s=377dffa4-465c-4544-a4b5-679257b46c27)][[code](https://github.com/charan223/FairDeepLearning)].
 
 <br />
