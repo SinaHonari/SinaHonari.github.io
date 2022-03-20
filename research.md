@@ -14,6 +14,18 @@
 <br />
 
 
+<img align="left" src="Images/research/teaser/2022_CVPR_SMPL_body_prior.jpg" width="300"/>
+
+
+**[Adversarial Parametric Pose Prior](https://arxiv.org/pdf/2112.04203.pdf)**  <br />
+Andrey Davydov, Anastasia Remizova, Victor Constantin, **Sina Honari**, Mathieu Salzmann, and Pascal Fua. <br />
+**Computer Vision and Pattern Recognition (CVPR)**, 2022 [[paper](https://arxiv.org/pdf/2112.04203.pdf)].
+
+<br />
+<br />
+<br />
+
+
 <img align="left" src="Images/research/teaser/2021_unsup_3D_pose.jpg" width="300"/>
 
 
