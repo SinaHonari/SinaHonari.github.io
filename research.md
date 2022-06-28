@@ -17,7 +17,7 @@
 
 **[Adversarial Parametric Pose Prior](https://arxiv.org/pdf/2112.04203.pdf)**  <br />
 Andrey Davydov, Anastasia Remizova, Victor Constantin, **Sina Honari**, Mathieu Salzmann, and Pascal Fua. <br />
-**Computer Vision and Pattern Recognition (CVPR)**, 2022 [[paper](https://arxiv.org/pdf/2112.04203.pdf)][[slides](https://docs.google.com/presentation/d/1mYsvY5Zjs0G6yqZWGX_Y5BlV7oXuzRbW/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)][[poster](https://drive.google.com/file/d/1s9yNZ2etxctZUSc7mKJgu8ihtAXTeL0i/view?usp=sharing)].
+**Computer Vision and Pattern Recognition (CVPR)**, 2022, Oral (**4%** of submissions) [[paper](https://arxiv.org/pdf/2112.04203.pdf)][[slides](https://docs.google.com/presentation/d/1mYsvY5Zjs0G6yqZWGX_Y5BlV7oXuzRbW/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)][[poster](https://drive.google.com/file/d/1s9yNZ2etxctZUSc7mKJgu8ihtAXTeL0i/view?usp=sharing)][[code](https://github.com/cvlab-epfl/adv_param_pose_prior)].
 
 <br />
 <br />
