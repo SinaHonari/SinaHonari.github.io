@@ -98,7 +98,6 @@ Openreview pre-print, 2021 [[paper](https://openreview.net/pdf?id=aYbCpFNnHdh)].
 
 <br />
 <br />
-<br />
 
 
 <img align="left" src="Images/research/teaser/2020_CVPR_teaser.png" width="300"/>
@@ -108,7 +107,6 @@ Openreview pre-print, 2021 [[paper](https://openreview.net/pdf?id=aYbCpFNnHdh)].
 Edoardo Remelli, Shangchen Han, **Sina Honari**, Pascal Fua, and Robert Wang. <br />
 **Computer Vision and Pattern Recognition (CVPR)**, 2020 [[paper](https://arxiv.org/pdf/2004.02186.pdf)][[slides](Images/research/slides/2020_CVPR_slides.pdf)][[video](https://drive.google.com/file/d/1lO9LNH5rL1eZ4vHuitLzLHhHXsAQn0rM/view?usp=sharing)][[code](https://github.com/edoRemelli/DiffDLT)].
 
-<br />
 <br />
 <br />
 
@@ -204,7 +202,7 @@ Florian Bordes, **Sina Honari**, and Pascal Vincent. <br />
 <img align="left" src="Images/research/teaser/2016_CVPR_RCN.jpg" width="300"/>
 
 **[Recombinator networks: Learning coarse-to-fine feature aggregation](https://arxiv.org/abs/1511.07356)**  
-**Sina Honari**, Jason Yosinski, Pascal Vincent, and Christopher Pal. <br /> 
+**Sina Honari**, Jason Yosinski, Pascal Vincent, and Christopher Pal. <br />  
 **Computer Vision and Pattern Recognition (CVPR)**, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](https://drive.google.com/file/d/18-5tCLA6IglvkiApG4euePUIWYoh3zXG/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1gdxPKp731UrUwxqsUBoaFK-8S_2N6LsrJlTcswoIBFw/edit?usp=sharing)].
 
 <br />
