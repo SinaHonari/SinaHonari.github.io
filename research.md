@@ -212,7 +212,7 @@ Florian Bordes, **Sina Honari**, and Pascal Vincent. <br />
 <img align="left" src="Images/research/teaser/2016_IVCJ_id_exp_merge.jpg" width="300"/>  
 
 **[Improving facial analysis and performance driven animation through disentangling identity and expression](https://arxiv.org/abs/1512.08212)**  
-David Rim*, **Sina Honari***, Md Kamrul Hasan, and Christopher Pal. <br />
+David Rim\*, **Sina Honari\***, Md Kamrul Hasan, and Christopher Pal. <br />
 **Image and Vision Computing Journal**, 2016 [[paper](https://arxiv.org/abs/1512.08212)].
 
 <br />
