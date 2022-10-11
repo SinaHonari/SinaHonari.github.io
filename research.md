@@ -16,7 +16,7 @@
 
 
 **[On Triangulation as a Form of Self-Supervision for 3D Human Pose Estimation](https://arxiv.org/abs/2203.15865)**  <br />
-Soumava Kumar Roy*, Leonardo Citraro*, **Sina Honari**, and Pascal Fua. <br />
+Soumava Kumar Roy\*, Leonardo Citraro\*, **Sina Honari**, and Pascal Fua. <br />
 **International Conference on 3D Vision (3DV)**, 2022 [[paper](https://arxiv.org/abs/2203.15865)][[poster](https://drive.google.com/file/d/1teGqvkU8tS4VLn02R0jq0Lsaoxc92HHZ/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1HDWWSnswQHZt_obWt9l1aVRLF6SMFyDp/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)][[video](https://www.youtube.com/watch?v=DpA4OrR18d4&list=PLDqmL95Gm8yLluJMGuplQdre9QwnobvCt&index=5)].
 
 <br />
@@ -69,7 +69,7 @@ ArXiv pre-print, 2021 [[paper](https://arxiv.org/pdf/2012.13633.pdf)]].
 
 
 **[Benchmarking Bias Mitigation Algorithms in Representation Learning through Fairness Metrics](https://openreview.net/pdf?id=OTnqQUEwPKu)**  <br />
-Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero-Soriano, Samira Shabanian*, and **Sina Honari***, <br />
+Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero-Soriano, Samira Shabanian\*, and **Sina Honari\***, <br />
 **Neural Information Processing Systems (NeurIPS)**, 2021 [[paper](https://openreview.net/forum?id=OTnqQUEwPKu)][[slides](https://drive.google.com/file/d/1-0JdsU9cDSRtUX1BOLH4H2T-UZ9bSAid/view?usp=sharing)][[video](https://recorder-v3.slideslive.com/#/share?share=54040&s=377dffa4-465c-4544-a4b5-679257b46c27)][[code](https://github.com/charan223/FairDeepLearning)].
 
 <br />
@@ -81,7 +81,7 @@ Charan Reddy, Deepak Sharma, Soroush Mehri, Adriana Romero-Soriano, Samira Shaba
 
 
 **[SegmentMeIfYouCan: A Benchmark for Anomaly Segmentation](https://arxiv.org/pdf/2104.14812.pdf)**  <br />
-Robin Chan*, Krzysztof Lis*, Svenja Uhlemeyer*, Hermann Blum*, **Sina Honari**, Roland Siegwart, Mathieu Salzmann, Pascal Fua, and Matthias Rottmann. <br />
+Robin Chan\*, Krzysztof Lis\*, Svenja Uhlemeyer\*, Hermann Blum*, **Sina Honari**, Roland Siegwart, Mathieu Salzmann, Pascal Fua, and Matthias Rottmann. <br />
 **Neural Information Processing Systems (NeurIPS)**, 2021 [[paper](https://arxiv.org/pdf/2104.14812.pdf)][[slides](https://segmentmeifyoucan.github.io/segment-me-presentation/)][[website](https://segmentmeifyoucan.com/)][[code](https://github.com/SegmentMeIfYouCan/road-anomaly-benchmark)].
 
 <br />
