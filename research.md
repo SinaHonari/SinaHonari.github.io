@@ -15,10 +15,10 @@
 <img align="left" src="Images/research/teaser/2022_tpami_temporal_repersentation_learnin_teaser.gif" width="300"/>
 
 
-&nbsp; **[Temporal Representation Learning on Monocular Videos for 3D Human Pose Estimation](https://arxiv.org/pdf/2012.01511.pdf)**  <br />
-&nbsp; **Sina Honari**, Victor Constantin, Helge Rhodin, Mathieu Salzmann, and Pascal Fua. <br />
-&nbsp; **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2022 [[paper](https://arxiv.org/pdf/2012.01511.pdf)][[sldies](https://docs.google.com/presentation/d/1bltUuZxeUvPqNrnZL6X4OuMtNcNy9zIq/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)]. <br />
-&nbsp; Best to download slides to see the videos.
+**[Temporal Representation Learning on Monocular Videos for 3D Human Pose Estimation](https://arxiv.org/pdf/2012.01511.pdf)**  <br />
+**Sina Honari**, Victor Constantin, Helge Rhodin, Mathieu Salzmann, and Pascal Fua. <br />
+**Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2022 [[paper](https://arxiv.org/pdf/2012.01511.pdf)][[sldies](https://docs.google.com/presentation/d/1bltUuZxeUvPqNrnZL6X4OuMtNcNy9zIq/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)]. <br />
+Best to download slides to see the videos.
 
 <br />
 <br />
