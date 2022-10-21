@@ -9,7 +9,6 @@
 [Google Scholar](https://scholar.google.com/citations?user=8uou2n4AAAAJ&hl=en)
 <br />
 <br />
-<br />
 
 
 <img align="left" src="Images/research/teaser/2022_tpami_temporal_repersentation_learnin_teaser.gif" width="300"/>
@@ -22,9 +21,6 @@ Best to download slides to see the videos.
 
 <br />
 <br />
-<br />
-<br />
-
 
 <img align="left" src="Images/research/teaser/2022_3DV_triangulation_as_self_supervision.jpg" width="300"/>
 
@@ -33,7 +29,6 @@ Best to download slides to see the videos.
 Soumava Kumar Roy\*, Leonardo Citraro\*, **Sina Honari**, and Pascal Fua. <br />
 **International Conference on 3D Vision (3DV)**, 2022 [[paper](https://arxiv.org/abs/2203.15865)][[poster](https://drive.google.com/file/d/1teGqvkU8tS4VLn02R0jq0Lsaoxc92HHZ/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1HDWWSnswQHZt_obWt9l1aVRLF6SMFyDp/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)][[video](https://www.youtube.com/watch?v=DpA4OrR18d4&list=PLDqmL95Gm8yLluJMGuplQdre9QwnobvCt&index=5)][[dataset](https://www.epfl.ch/labs/cvlab/data/sportcenter-dataset/)].
 
-<br />
 <br />
 
 <img align="left" src="Images/research/teaser/2022_CVPR_SMPL_body_prior.jpg" width="300"/>
