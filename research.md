@@ -16,12 +16,14 @@
 
 **[Temporal Representation Learning on Monocular Videos for 3D Human Pose Estimation](https://arxiv.org/pdf/2012.01511.pdf)**
 **Sina Honari**, Victor Constantin, Helge Rhodin, Mathieu Salzmann, and Pascal Fua. <br />
-**Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2022 [[paper](https://arxiv.org/pdf/2012.01511.pdf)][[sldies](https://docs.google.com/presentation/d/1bltUuZxeUvPqNrnZL6X4OuMtNcNy9zIq/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)]. <br />
+**Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2022 [[paper](https://arxiv.org/pdf/2012.01511.pdf)][[sldies](https://docs.google.com/presentation/d/1WtXwZpXFjclQ8AkJ2ef7ITp1xAtLD2Dg/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)]. <br />
 Best to download slides to see the videos.
 
 <br />
 <br />
 <br />
+<br />
+
 
 <img align="left" src="Images/research/teaser/2022_3DV_triangulation_as_self_supervision.jpg" width="300"/>
 
@@ -30,6 +32,18 @@ Best to download slides to see the videos.
 Soumava Kumar Roy\*, Leonardo Citraro\*, **Sina Honari**, and Pascal Fua. <br />
 **International Conference on 3D Vision (3DV)**, 2022 [[paper](https://arxiv.org/abs/2203.15865)][[poster](https://drive.google.com/file/d/1teGqvkU8tS4VLn02R0jq0Lsaoxc92HHZ/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1HDWWSnswQHZt_obWt9l1aVRLF6SMFyDp/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)][[video](https://www.youtube.com/watch?v=DpA4OrR18d4&list=PLDqmL95Gm8yLluJMGuplQdre9QwnobvCt&index=5)][[dataset](https://www.epfl.ch/labs/cvlab/data/sportcenter-dataset/)].
 
+
+<br />
+
+<img align="left" src="Images/research/teaser/2021_VQA.jpg" width="300"/>
+
+
+**[Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests](https://openreview.net/pdf?id=aYbCpFNnHdh)**  <br />
+Christopher Beckham, Martin Weiss, Florian Golemo, **Sina Honari**, Derek Nowrouzezahrai, and Christopher Pal. 
+**Pattern Recongnition**, 2022 [[paper](https://openreview.net/pdf?id=aYbCpFNnHdh)].
+
+<br />
+<br />
 <br />
 
 <img align="left" src="Images/research/teaser/2022_CVPR_SMPL_body_prior.jpg" width="300"/>
@@ -39,10 +53,13 @@ Soumava Kumar Roy\*, Leonardo Citraro\*, **Sina Honari**, and Pascal Fua. <br />
 Andrey Davydov, Anastasia Remizova, Victor Constantin, **Sina Honari**, Mathieu Salzmann, and Pascal Fua. <br />
 **Computer Vision and Pattern Recognition (CVPR)**, 2022, Oral (**4%** of submissions) [[paper](https://arxiv.org/pdf/2112.04203.pdf)][[slides](https://docs.google.com/presentation/d/1mYsvY5Zjs0G6yqZWGX_Y5BlV7oXuzRbW/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)][[poster](https://drive.google.com/file/d/1s9yNZ2etxctZUSc7mKJgu8ihtAXTeL0i/view?usp=sharing)][[code](https://github.com/cvlab-epfl/adv_param_pose_prior)].
 
+
 <br />
 <br />
 
+<!---
 <img align="left" src="Images/research/teaser/2021_road_inpainting.jpg" width="300"/>
+
 
 
 **[Detecting Road Obstacles by Erasing Them](https://arxiv.org/pdf/2012.13633.pdf)**  <br />
@@ -56,6 +73,7 @@ ArXiv pre-print, 2021 [[paper](https://arxiv.org/pdf/2012.13633.pdf)]].
 <br />
 <br />
 <br />
+--->
 
 
 <img align="left" src="Images/research/teaser/2021_NeurIPS_bias.jpg" width="300"/>
@@ -78,17 +96,6 @@ Robin Chan\*, Krzysztof Lis\*, Svenja Uhlemeyer\*, Hermann Blum*, **Sina Honari*
 **Neural Information Processing Systems (NeurIPS)**, 2021 [[paper](https://arxiv.org/pdf/2104.14812.pdf)][[slides](https://segmentmeifyoucan.github.io/segment-me-presentation/)][[website](https://segmentmeifyoucan.com/)][[code](https://github.com/SegmentMeIfYouCan/road-anomaly-benchmark)].
 
 <br />
-<br />
-<br />
-
-
-<img align="left" src="Images/research/teaser/2021_VQA.jpg" width="300"/>
-
-
-**[Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests](https://openreview.net/pdf?id=aYbCpFNnHdh)**  <br />
-Christopher Beckham, Martin Weiss, Florian Golemo, **Sina Honari**, Derek Nowrouzezahrai, and Christopher Pal. <br />
-Openreview pre-print, 2021 [[paper](https://openreview.net/pdf?id=aYbCpFNnHdh)].
-
 <br />
 <br />
 
@@ -129,7 +136,7 @@ MohammadHossein AskariHemmat, **Sina Honari**, Lucas Rouhier, Christian S. Peron
 
 **[Unsupervised Depth Estimation, 3D Face Rotation and Replacement](https://arxiv.org/abs/1803.09202)**  
 Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honari**, and Christopher Pal. <br />
-**Neural Information Processing Systems (NIPS)**, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[poster](https://drive.google.com/open?id=19ymxpQZhE9soainqVQe_xugawYIz8eq8)][[video](https://www.youtube.com/watch?v=h_brJWd7nNg&feature=youtu.be)][[code](https://github.com/joelmoniz/DepthNets/tree/master)].
+**Neural Information Processing Systems (NeurIPS)**, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[poster](https://drive.google.com/open?id=19ymxpQZhE9soainqVQe_xugawYIz8eq8)][[video](https://www.youtube.com/watch?v=h_brJWd7nNg&feature=youtu.be)][[code](https://github.com/joelmoniz/DepthNets/tree/master)].
 
 <br />
 <br />
