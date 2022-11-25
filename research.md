@@ -22,7 +22,6 @@ Best to download slides to see the videos.
 <br />
 <br />
 <br />
-<br />
 
 
 <img align="left" src="Images/research/teaser/2022_3DV_triangulation_as_self_supervision.jpg" width="300"/>
@@ -139,7 +138,6 @@ Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> **Sina Honar
 **Neural Information Processing Systems (NeurIPS)**, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[poster](https://drive.google.com/open?id=19ymxpQZhE9soainqVQe_xugawYIz8eq8)][[video](https://www.youtube.com/watch?v=h_brJWd7nNg&feature=youtu.be)][[code](https://github.com/joelmoniz/DepthNets/tree/master)].
 
 <br />
-<br />
 
 <img align="left" src="Images/research/teaser/2018_MICCAI_Distribution_matching_v2.jpg" width="300"/>
 
@@ -174,7 +172,6 @@ Joseph Paul Cohen, Margaux Luck, and **Sina Honari**. <br />
 <br />
 <br />
 <br />
-<br />
 
 
 <img align="left" src="Images/research/teaser/2018_CVPR_3D_depth_hands.jpg" width="300"/>
@@ -205,7 +202,6 @@ Florian Bordes, **Sina Honari**, and Pascal Vincent. <br />
 **Sina Honari**, Jason Yosinski, Pascal Vincent, and Christopher Pal. <br />  
 **Computer Vision and Pattern Recognition (CVPR)**, 2016, spotlight presentation (**9.7%** of submissions) [[paper](https://arxiv.org/abs/1511.07356)][[code](https://github.com/SinaHonari/RCN)][[poster](https://drive.google.com/file/d/18-5tCLA6IglvkiApG4euePUIWYoh3zXG/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1gdxPKp731UrUwxqsUBoaFK-8S_2N6LsrJlTcswoIBFw/edit?usp=sharing)].
 
-<br />
 <br />
 <br />
 
