@@ -16,7 +16,7 @@
 
 **[Temporal Representation Learning on Monocular Videos for 3D Human Pose Estimation](https://arxiv.org/pdf/2012.01511.pdf)**
 **Sina Honari**, Victor Constantin, Helge Rhodin, Mathieu Salzmann, and Pascal Fua. <br />
-**Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2022 [[paper](https://arxiv.org/pdf/2012.01511.pdf)][[sldies](https://docs.google.com/presentation/d/1WtXwZpXFjclQ8AkJ2ef7ITp1xAtLD2Dg/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)]. <br />
+**Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9921314/)][[sldies](https://docs.google.com/presentation/d/1WtXwZpXFjclQ8AkJ2ef7ITp1xAtLD2Dg/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)]. <br />
 Best to download slides to see the videos.
 
 <br />
@@ -34,17 +34,6 @@ Soumava Kumar Roy\*, Leonardo Citraro\*, **Sina Honari**, and Pascal Fua. <br />
 
 <br />
 
-<img align="left" src="Images/research/teaser/2021_VQA.jpg" width="300"/>
-
-
-**[Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests](https://openreview.net/pdf?id=aYbCpFNnHdh)**  <br />
-Christopher Beckham, Martin Weiss, Florian Golemo, **Sina Honari**, Derek Nowrouzezahrai, and Christopher Pal. 
-**Pattern Recongnition**, 2022 [[paper](https://openreview.net/pdf?id=aYbCpFNnHdh)].
-
-<br />
-<br />
-<br />
-
 <img align="left" src="Images/research/teaser/2022_CVPR_SMPL_body_prior.jpg" width="300"/>
 
 
@@ -53,6 +42,17 @@ Andrey Davydov, Anastasia Remizova, Victor Constantin, **Sina Honari**, Mathieu 
 **Computer Vision and Pattern Recognition (CVPR)**, 2022, Oral (**4%** of submissions) [[paper](https://arxiv.org/pdf/2112.04203.pdf)][[slides](https://docs.google.com/presentation/d/1mYsvY5Zjs0G6yqZWGX_Y5BlV7oXuzRbW/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)][[poster](https://drive.google.com/file/d/1s9yNZ2etxctZUSc7mKJgu8ihtAXTeL0i/view?usp=sharing)][[code](https://github.com/cvlab-epfl/adv_param_pose_prior)].
 
 
+<br />
+<br />
+
+<img align="left" src="Images/research/teaser/2021_VQA.jpg" width="300"/>
+
+
+**[Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests](https://openreview.net/pdf?id=aYbCpFNnHdh)**  <br />
+Christopher Beckham, Martin Weiss, Florian Golemo, **Sina Honari**, Derek Nowrouzezahrai, and Christopher Pal. <br />
+**Pattern Recongnition**, 2022 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322006884?via%3Dihub)].
+
+<br />
 <br />
 <br />
 
