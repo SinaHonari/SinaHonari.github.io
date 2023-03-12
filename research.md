@@ -10,6 +10,26 @@
 <br />
 <br />
 
+<img align="left" src="Images/research/teaser/2023_IJCV_neural_action.gif" width="300"/>
+
+
+**[Overcoming the Domain Gap in Neural Action Representations](https://link.springer.com/article/10.1007/s11263-022-01713-6)**  <br />
+Semih Günel, Florian Aymanns, **Sina Honari**, Pavan Ramdya, and Pascal Fua. <br />
+**International Journal of Computer Vision (IJCV)**, 2023 [[paper](https://link.springer.com/content/pdf/10.1007/s11263-022-01713-6.pdf?pdf=button)][[dataset](https://github.com/semihgunel/MC2P)].
+
+<br />
+<br />
+
+<img align="left" src="Images/research/teaser/2021_VQA.jpg" width="300"/>
+
+
+**[Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests](https://openreview.net/pdf?id=aYbCpFNnHdh)**  <br />
+Christopher Beckham, Martin Weiss, Florian Golemo, **Sina Honari**, Derek Nowrouzezahrai, and Christopher Pal. <br />
+**Pattern Recongnition**, 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322006884?via%3Dihub)][[dataset](https://github.com/christopher-beckham/clevr-mrt)].
+
+<br />
+<br />
+<br />
 
 <img align="left" src="Images/research/teaser/2022_tpami_temporal_repersentation_learnin_teaser.gif" width="300"/>
 
@@ -42,17 +62,6 @@ Andrey Davydov, Anastasia Remizova, Victor Constantin, **Sina Honari**, Mathieu 
 **Computer Vision and Pattern Recognition (CVPR)**, 2022, Oral (**4%** of submissions) [[paper](https://arxiv.org/pdf/2112.04203.pdf)][[slides](https://docs.google.com/presentation/d/1mYsvY5Zjs0G6yqZWGX_Y5BlV7oXuzRbW/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)][[poster](https://drive.google.com/file/d/1s9yNZ2etxctZUSc7mKJgu8ihtAXTeL0i/view?usp=sharing)][[code](https://github.com/cvlab-epfl/adv_param_pose_prior)].
 
 
-<br />
-<br />
-
-<img align="left" src="Images/research/teaser/2021_VQA.jpg" width="300"/>
-
-
-**[Visual Question Answering From Another Perspective: CLEVR Mental Rotation Tests](https://openreview.net/pdf?id=aYbCpFNnHdh)**  <br />
-Christopher Beckham, Martin Weiss, Florian Golemo, **Sina Honari**, Derek Nowrouzezahrai, and Christopher Pal. <br />
-**Pattern Recongnition**, 2022 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322006884?via%3Dihub)].
-
-<br />
 <br />
 <br />
 
