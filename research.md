@@ -23,7 +23,6 @@ Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
 <br />
 <br />
 <br />
-<br />
 
 <img align="left" src="Images/research/teaser/2023_IJCV_neural_action.gif" width="300"/>
 
