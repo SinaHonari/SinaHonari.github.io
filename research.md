@@ -10,6 +10,21 @@
 <br />
 <br />
 
+
+<img align="left" src="Images/research/teaser/2023-RA-L-teaser.jpg" width="300"/>
+
+
+
+**[Perspective Aware Road Obstacle Detection](https://ieeexplore.ieee.org/document/10044958)**  <br />
+Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
+**IEEE Robotics and Automation Letters (RA-L)**, 2023 [[paper](https://arxiv.org/pdf/2210.01779.pdf)].
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <img align="left" src="Images/research/teaser/2023_IJCV_neural_action.gif" width="300"/>
 
 
@@ -17,7 +32,6 @@
 Semih Günel, Florian Aymanns, **Sina Honari**, Pavan Ramdya, and Pascal Fua. <br />
 **International Journal of Computer Vision (IJCV)**, 2023 [[paper](https://link.springer.com/content/pdf/10.1007/s11263-022-01713-6.pdf?pdf=button)][[dataset](https://github.com/semihgunel/MC2P)].
 
-<br />
 <br />
 
 <img align="left" src="Images/research/teaser/2021_VQA.jpg" width="300"/>
