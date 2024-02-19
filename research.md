@@ -9,11 +9,26 @@
 [Google Scholar](https://scholar.google.com/citations?user=8uou2n4AAAAJ&hl=en)
 <br />
 <br />
+<br />
+<br />
+
+
+<img align="left" src="Images/research/teaser/2024_3DV_kpt_discovery.jpg" width="250"/>
+
+**[Unsupervised 3D Keypoint Discovery with Multi-View Geometry](https://arxiv.org/abs/2211.12829)**  <br />
+**Sina Honari**, Chen Zhao, Mathieu Salzmann, and Pascal Fua. <br />
+**International Conference on 3D Vision (3DV)**, 2024 [[paper](https://arxiv.org/abs/2211.12829)].
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 <img align="left" src="Images/research/teaser/2023-RA-L-teaser.jpg" width="300"/>
-
-
 
 **[Perspective Aware Road Obstacle Detection](https://ieeexplore.ieee.org/document/10044958)**  <br />
 Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
@@ -25,7 +40,6 @@ Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
 <br />
 
 <img align="left" src="Images/research/teaser/2023_IJCV_neural_action.gif" width="300"/>
-
 
 **[Overcoming the Domain Gap in Neural Action Representations](https://link.springer.com/article/10.1007/s11263-022-01713-6)**  <br />
 Semih Günel, Florian Aymanns, **Sina Honari**, Pavan Ramdya, and Pascal Fua. <br />
