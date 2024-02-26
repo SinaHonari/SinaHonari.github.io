@@ -17,7 +17,21 @@
 
 **[Unsupervised 3D Keypoint Discovery with Multi-View Geometry](https://arxiv.org/abs/2211.12829)**  <br />
 **Sina Honari**, Chen Zhao, Mathieu Salzmann, and Pascal Fua. <br />
-**International Conference on 3D Vision (3DV)**, 2024 [[paper](https://arxiv.org/abs/2211.12829)].
+**International Conference on 3D Vision (3DV)**, 2024 [[poster](https://drive.google.com/file/d/1AuZE-_X6QaGWx5pA0UFKCcmeFou6SmP_/view?usp=sharing)][[paper](https://arxiv.org/abs/2211.12829)].
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<img align="left" src="Images/research/teaser/2024_3DV_graph_masking.png" width="250"/>
+
+**[Occlusion Resilient 3D Human Pose Estimation](http://arxiv.org/abs/2402.11036)**  <br />
+Soumava Kumar Roy, Ilia Badanin, **Sina Honari**, and Pascal Fua. <br />
+**International Conference on 3D Vision (3DV)**, 2024 [[paper](http://arxiv.org/abs/2402.11036)].
 
 <br />
 <br />
