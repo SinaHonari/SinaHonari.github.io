@@ -31,7 +31,7 @@
 
 **[Occlusion Resilient 3D Human Pose Estimation](http://arxiv.org/abs/2402.11036)**  <br />
 Soumava Kumar Roy, Ilia Badanin, **Sina Honari**, and Pascal Fua. <br />
-**International Conference on 3D Vision (3DV)**, 2024 [[paper](http://arxiv.org/abs/2402.11036)].
+**International Conference on 3D Vision (3DV)**, 2024 [[poster](https://drive.google.com/file/d/1TYK-vmcEDZwaZEmu4gEKeX75AdnnFbYZ/view?usp=sharing)][[paper](http://arxiv.org/abs/2402.11036)].
 
 <br />
 <br />
@@ -46,7 +46,7 @@ Soumava Kumar Roy, Ilia Badanin, **Sina Honari**, and Pascal Fua. <br />
 
 **[Perspective Aware Road Obstacle Detection](https://ieeexplore.ieee.org/document/10044958)**  <br />
 Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
-**IEEE Robotics and Automation Letters (RA-L)**, 2023 [[paper](https://arxiv.org/pdf/2210.01779.pdf)].
+**IEEE Robotics and Automation Letters (RA-L)**, also presented at **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2023 [[paper](https://arxiv.org/pdf/2210.01779.pdf)].
 
 <br />
 <br />
