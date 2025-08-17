@@ -62,7 +62,7 @@ Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
   
 &nbsp; &nbsp; &nbsp; **[Overcoming the Domain Gap in Neural Action Representations](https://link.springer.com/article/10.1007/s11263-022-01713-6)**  <br />
 &nbsp; &nbsp; &nbsp; Semih Günel, Florian Aymanns, **Sina Honari**, Pavan Ramdya, and Pascal Fua. <br />
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **International Journal of Computer Vision (IJCV)**, 2023 [[paper](https://link.springer.com/content/pdf/10.1007/s11263-022-01713-6.pdf?pdf=button)][[dataset](https://github.com/semihgunel/MC2P)].
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **International Journal of Computer Vision (IJCV)**, 2023 [[paper](https://link.springer.com/content/pdf/10.1007/s11263-022-01713-6.pdf?pdf=button)][[dataset](https://github.com/semihgunel/MC2P)].
 
 
 <br />
@@ -81,11 +81,13 @@ Christopher Beckham, Martin Weiss, Florian Golemo, **Sina Honari**, Derek Nowrou
 
 <img align="left" src="Images/research/teaser/2022_tpami_temporal_repersentation_learnin_teaser.gif" width="300"/>
 
-&nbsp; &nbsp; &nbsp; **[Temporal Representation Learning on Monocular Videos for 3D Human Pose Estimation](https://arxiv.org/pdf/2012.01511.pdf)** <br />
-&nbsp; &nbsp; &nbsp; **Sina Honari**, Victor Constantin, Helge Rhodin, Mathieu Salzmann, and Pascal Fua. <br />
-&nbsp; &nbsp; &nbsp; **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9921314/)][[sldies](https://docs.google.com/presentation/d/1WtXwZpXFjclQ8AkJ2ef7ITp1xAtLD2Dg/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)]. <br />
-&nbsp; &nbsp; &nbsp; Best to download slides to see the videos.
+&nbsp; &nbsp; **[Temporal Representation Learning on Monocular Videos for 3D Human Pose Estimation](https://arxiv.org/pdf/2012.01511.pdf)** <br />
+&nbsp; &nbsp; **Sina Honari**, Victor Constantin, Helge Rhodin, Mathieu Salzmann, and Pascal Fua. <br />
+&nbsp; &nbsp; **Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2022 [[paper](https://ieeexplore.ieee.org/abstract/document/9921314/)][[sldies](https://docs.google.com/presentation/d/1WtXwZpXFjclQ8AkJ2ef7ITp1xAtLD2Dg/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)]. <br />
 
+
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -99,6 +101,7 @@ Soumava Kumar Roy\*, Leonardo Citraro\*, **Sina Honari**, and Pascal Fua. <br />
 **International Conference on 3D Vision (3DV)**, 2022 [[paper](https://arxiv.org/abs/2203.15865)][[poster](https://drive.google.com/file/d/1teGqvkU8tS4VLn02R0jq0Lsaoxc92HHZ/view?usp=sharing)][[slides](https://docs.google.com/presentation/d/1HDWWSnswQHZt_obWt9l1aVRLF6SMFyDp/edit?usp=sharing&ouid=104847692706554849617&rtpof=true&sd=true)][[video](https://www.youtube.com/watch?v=DpA4OrR18d4&list=PLDqmL95Gm8yLluJMGuplQdre9QwnobvCt&index=5)][[dataset](https://www.epfl.ch/labs/cvlab/data/sportcenter-dataset/)].
 
 
+<br />
 <br />
 
 <img align="left" src="Images/research/teaser/2022_CVPR_SMPL_body_prior.jpg" width="300"/>
@@ -189,9 +192,9 @@ MohammadHossein AskariHemmat, **Sina Honari**, Lucas Rouhier, Christian S. Peron
 
 <img align="left" src="Images/research/teaser/2018_NIPS_DepthNet.gif" width="300"/>
 
-&nbsp; &nbsp; &nbsp;  **[Unsupervised Depth Estimation, 3D Face Rotation and Replacement](https://arxiv.org/abs/1803.09202)**  
-&nbsp; &nbsp; &nbsp;  Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> &nbsp; &nbsp; &nbsp;  **Sina Honari**, and Christopher Pal. <br />
-&nbsp; &nbsp; &nbsp;  **Neural Information Processing Systems (NeurIPS)**, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[poster](https://drive.google.com/open?id=19ymxpQZhE9soainqVQe_xugawYIz8eq8)] <br /> &nbsp; &nbsp; &nbsp; [[video](https://www.youtube.com/watch?v=h_brJWd7nNg&feature=youtu.be)][[code](https://github.com/joelmoniz/DepthNets/tree/master)].
+&nbsp; &nbsp;  **[Unsupervised Depth Estimation, 3D Face Rotation and Replacement](https://arxiv.org/abs/1803.09202)**  
+&nbsp; &nbsp;  Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> &nbsp; &nbsp; &nbsp;  **Sina Honari**, and Christopher Pal. <br />
+&nbsp; &nbsp;  **Neural Information Processing Systems (NeurIPS)**, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[poster](https://drive.google.com/open?id=19ymxpQZhE9soainqVQe_xugawYIz8eq8)] <br /> &nbsp; &nbsp; &nbsp; [[video](https://www.youtube.com/watch?v=h_brJWd7nNg&feature=youtu.be)][[code](https://github.com/joelmoniz/DepthNets/tree/master)].
 
 <br />
 
