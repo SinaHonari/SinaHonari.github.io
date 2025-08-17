@@ -12,6 +12,17 @@
 <br />
 <br />
 
+<img align="left" src="Images/research/teaser/2025_WACV_BFR.png" width="300"/>
+
+**[Towards Unsupervised Blind Face Restoration Using Diffusion Prior](https://openaccess.thecvf.com/content/WACV2025/papers/Kuai_Towards_Unsupervised_Blind_Face_Restoration_using_Diffusion_Prior_WACV_2025_paper.pdf)** <br />
+Tianshu Kuai, **Sina Honari**, Igor Gilitschenski, and Alex Levinshtein. <br />
+**Winter Conference on Applications of Computer Vision (WACV)**, 2025 [[code](https://github.com/SamsungLabs/DT-BFR)][[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Kuai_Towards_Unsupervised_Blind_Face_Restoration_using_Diffusion_Prior_WACV_2025_paper.pdf)].
+
+<br />
+<br />
+<br />
+<br />
+
 
 <img align="left" src="Images/research/teaser/2024_3DV_kpt_discovery.jpg" width="300"/>
 
@@ -20,7 +31,6 @@
 **Sina Honari**, Chen Zhao, Mathieu Salzmann, and Pascal Fua. <br />
 **International Conference on 3D Vision (3DV)**, 2024 [[poster](https://drive.google.com/file/d/1AuZE-_X6QaGWx5pA0UFKCcmeFou6SmP_/view?usp=sharing)][[paper](https://arxiv.org/abs/2211.12829)].
 
-<br />
 <br />
 <br />
 <br />
@@ -43,8 +53,20 @@ Soumava Kumar Roy, Ilia Badanin, **Sina Honari**, and Pascal Fua. <br />
 <br />
 <br />
 <br />
-<br />
 
+<img align="left" src="Images/research/teaser/2021_road_inpainting.jpg" width="300"/>
+
+**[Detecting Road Obstacles by Erasing Them](https://arxiv.org/pdf/2012.13633.pdf)**  <br />
+Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
+**Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2023 [[paper](https://arxiv.org/pdf/2012.13633.pdf)].
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <img align="left" src="Images/research/teaser/2023-RA-L-teaser.jpg" width="300"/>
 
@@ -74,7 +96,6 @@ Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
 Christopher Beckham, Martin Weiss, Florian Golemo, **Sina Honari**, Derek Nowrouzezahrai, and Christopher Pal. <br />
 **Pattern Recongnition**, 2023 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322006884?via%3Dihub)][[dataset](https://github.com/christopher-beckham/clevr-mrt)].
 
-<br />
 <br />
 <br />
 <br />
@@ -114,24 +135,6 @@ Andrey Davydov, Anastasia Remizova, Victor Constantin, **Sina Honari**, Mathieu 
 
 <br />
 <br />
-
-<!---
-<img align="left" src="Images/research/teaser/2021_road_inpainting.jpg" width="300"/>
-
-
-
-**[Detecting Road Obstacles by Erasing Them](https://arxiv.org/pdf/2012.13633.pdf)**  <br />
-Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
-ArXiv pre-print, 2021 [[paper](https://arxiv.org/pdf/2012.13633.pdf)]].
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
---->
 
 
 <img align="left" src="Images/research/teaser/2021_NeurIPS_bias.jpg" width="300"/>
@@ -193,9 +196,11 @@ MohammadHossein AskariHemmat, **Sina Honari**, Lucas Rouhier, Christian S. Peron
 <img align="left" src="Images/research/teaser/2018_NIPS_DepthNet.gif" width="300"/>
 
 &nbsp; &nbsp;  **[Unsupervised Depth Estimation, 3D Face Rotation and Replacement](https://arxiv.org/abs/1803.09202)**  
-&nbsp; &nbsp;  Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, <br /> &nbsp; &nbsp; &nbsp;  **Sina Honari**, and Christopher Pal. <br />
-&nbsp; &nbsp;  **Neural Information Processing Systems (NeurIPS)**, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[poster](https://drive.google.com/open?id=19ymxpQZhE9soainqVQe_xugawYIz8eq8)] <br /> &nbsp; &nbsp; &nbsp; [[video](https://www.youtube.com/watch?v=h_brJWd7nNg&feature=youtu.be)][[code](https://github.com/joelmoniz/DepthNets/tree/master)].
+&nbsp; &nbsp;  Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, **Sina Honari**, Christopher Pal. <br />
+&nbsp; &nbsp;  **Neural Information Processing Systems (NeurIPS)**, 2018 [[paper](https://arxiv.org/abs/1803.09202)][[slides](https://drive.google.com/open?id=1TpDQ1124Pqh5AyQMqR-IXPG2mnvGtCrDyKPBILf_7ys)][[poster](https://drive.google.com/open?id=19ymxpQZhE9soainqVQe_xugawYIz8eq8)][[video](https://www.youtube.com/watch?v=h_brJWd7nNg&feature=youtu.be)][[code](https://github.com/joelmoniz/DepthNets/tree/master)].
 
+<br />
+<br />
 <br />
 
 <img align="left" src="Images/research/teaser/2018_MICCAI_Distribution_matching_v2.jpg" width="300"/>
