@@ -16,7 +16,7 @@
 
 **[Towards Unsupervised Blind Face Restoration Using Diffusion Prior](https://openaccess.thecvf.com/content/WACV2025/papers/Kuai_Towards_Unsupervised_Blind_Face_Restoration_using_Diffusion_Prior_WACV_2025_paper.pdf)** <br />
 Tianshu Kuai, **Sina Honari**, Igor Gilitschenski, and Alex Levinshtein. <br />
-**Winter Conference on Applications of Computer Vision (WACV)**, 2025 [[code](https://github.com/SamsungLabs/DT-BFR)][[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Kuai_Towards_Unsupervised_Blind_Face_Restoration_using_Diffusion_Prior_WACV_2025_paper.pdf)].
+**Winter Conference on Applications of Computer Vision (WACV)**, 2025 [[project-page](https://dt-bfr.github.io/)][[code](https://github.com/SamsungLabs/DT-BFR)][[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Kuai_Towards_Unsupervised_Blind_Face_Restoration_using_Diffusion_Prior_WACV_2025_paper.pdf)][[poster](https://drive.google.com/file/d/1ViUKNQLJhxF4mkG1xmfio8FNmK7xZigd/view?usp=share_link)][[video](https://www.youtube.com/watch?v=Ncql5S5l-Ic&feature=youtu.be)].
 
 <br />
 <br />
@@ -84,7 +84,7 @@ Krzysztof Lis, **Sina Honari**, Pascal Fua, and Mathieu Salzmann. <br />
   
 &nbsp; &nbsp; &nbsp; **[Overcoming the Domain Gap in Neural Action Representations](https://link.springer.com/article/10.1007/s11263-022-01713-6)**  <br />
 &nbsp; &nbsp; &nbsp; Semih Günel, Florian Aymanns, **Sina Honari**, Pavan Ramdya, and Pascal Fua. <br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **International Journal of Computer Vision (IJCV)**, 2023 [[paper](https://link.springer.com/content/pdf/10.1007/s11263-022-01713-6.pdf?pdf=button)][[dataset](https://github.com/semihgunel/MC2P)].
+&nbsp; &nbsp; &nbsp; **International Journal of Computer Vision (IJCV)**, 2023 [[paper](https://link.springer.com/content/pdf/10.1007/s11263-022-01713-6.pdf?pdf=button)][[dataset](https://github.com/semihgunel/MC2P)].
 
 
 <br />
