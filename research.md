@@ -9,6 +9,17 @@
 [Google Scholar](https://scholar.google.com/citations?user=8uou2n4AAAAJ&hl=en)
 <br />
 <br />
+
+<img align="left" src="Images/research/teaser/2026_CVPR_Face2Scene.png" width="290"/>
+
+**[Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration](https://openaccess.thecvf.com/content/CVPR2026/papers/Kazerouni_Face2Scene_Using_Facial_Degradation_as_an_Oracle_for_Diffusion-Based_Scene_CVPR_2026_paper.pdf)** <br />
+Amirhossein Kazerouni, Maitreya Suin, Tristan Aumentado-Armstrong, **Sina Honari**, Amanpreet Walia, Iqbal Mohomed, Konstantinos G Derpanis, Babak Taati, and Alex Levinshtein. <br />
+**Computer Vision and Pattern Recognition (CVPR)**, 2026 [[project-page](https://amirhossein-kz.github.io/face2scene/)][[Video](https://www.youtube.com/watch?v=QTOGjcwRYmM)][[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Kazerouni_Face2Scene_Using_Facial_Degradation_as_an_Oracle_for_Diffusion-Based_Scene_CVPR_2026_paper.pdf)][[poster](https://amirhossein-kz.github.io/assets/ppt-face2scene-z8.pdf)][[Dataset](https://huggingface.co/datasets/amir477/InScene)].
+
+
+<br />
+<br />
+<br />
 <br />
 <br />
 
@@ -18,7 +29,6 @@
 Tianshu Kuai, **Sina Honari**, Igor Gilitschenski, and Alex Levinshtein. <br />
 **Winter Conference on Applications of Computer Vision (WACV)**, 2025 [[project-page](https://dt-bfr.github.io/)][[code](https://github.com/SamsungLabs/DT-BFR)][[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Kuai_Towards_Unsupervised_Blind_Face_Restoration_using_Diffusion_Prior_WACV_2025_paper.pdf)][[poster](https://drive.google.com/file/d/1ViUKNQLJhxF4mkG1xmfio8FNmK7xZigd/view?usp=share_link)][[video](https://www.youtube.com/watch?v=Ncql5S5l-Ic&feature=youtu.be)].
 
-<br />
 <br />
 <br />
 <br />
